@@ -1,0 +1,170 @@
+<!--
+title: Befehle
+description: 
+published: true
+date: 2023-09-24T10:49:34.324Z
+tags: 
+editor: ckeditor
+dateCreated: 2023-09-24T10:49:32.137Z
+-->
+
+<h1>Befehle</h1>
+<p>Ihr könnten jeden Befehl auch eine Taste zuweisen.</p>
+<p>Dafür öffnet ihr im Game mit F1 die Console und gebt folgendes ein:</p>
+<p><code>input.bind N chat.say "/v"</code></p>
+<p>wobei N für die Taste steht die ihr Benutzen wollt und das "/v" für den Befehl. In dem Fall wird jedes mal wenn ihr N drückt der Chatbefehl /v ausgeführt und deine Sprachreichweite verändert.</p>
+<p><code>input.bind C chat.say "/craft"</code> öffnet jedes mal wenn ihr C drückt das Craft Menü</p>
+<p>Genauere Beschreibungen findet ihr hier: <a href="https://wiki.facepunch.com/rust/Keybinds">https://wiki.facepunch.com/rust/Keybinds</a></p>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Befehl</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>/auth</td>
+        <td>Mit dem erhaltenen Code kannst du dich im DC authentifizieren</td>
+      </tr>
+      <tr>
+        <td>/vote</td>
+        <td>Du kassierst deine tägliche Belohnung fürs Voten</td>
+      </tr>
+      <tr>
+        <td>/remove</td>
+        <td>Entfernt selbstgebaute Strukturen</td>
+      </tr>
+      <tr>
+        <td>/kit</td>
+        <td>Hier kannst du dir Kits für deinen jeweiligen Beruf holen</td>
+      </tr>
+      <tr>
+        <td>/stats</td>
+        <td>Du siehst deine aktuelle Statistik vom ZLevel</td>
+      </tr>
+      <tr>
+        <td>/craft</td>
+        <td>Du kannst dort spezielle Dinge craften für deinen Beruf</td>
+      </tr>
+      <tr>
+        <td>/info</td>
+        <td>Hier siehst du Infos zum Server</td>
+      </tr>
+      <tr>
+        <td>/friend &lt;add/remove&gt; &lt;player name or id&gt;</td>
+        <td>Fügt Freund hinzu (add) oder löscht ihn (remove) Inventarzugriff, abreißen von Gebäudeteilen, Pferd teilen</td>
+      </tr>
+      <tr>
+        <td>/friend list</td>
+        <td>Freundesliste</td>
+      </tr>
+      <tr>
+        <td>/ps &lt;Name&gt;</td>
+        <td>Suche nach einem Namen im Telefonbuch</td>
+      </tr>
+      <tr>
+        <td>/ipanel &lt;hide/show&gt;</td>
+        <td>Anzeige links oben anzeigen oder ausblenden</td>
+      </tr>
+      <tr>
+        <td>/v</td>
+        <td>Ändert die Voice Range 100m – 50m – 20m – 5m. Achtung das Betrifft auch das Megaphon Auf Taste binden (F1 Console): bind TASTE chat.say "/v"</td>
+      </tr>
+      <tr>
+        <td>/bank</td>
+        <td>Öffnet das Bankmenü</td>
+      </tr>
+      <tr>
+        <td>/players</td>
+        <td>Wer ist grad wach?!</td>
+      </tr>
+      <tr>
+        <td>/alk</td>
+        <td>Körperlicher Zustand nach dem Alkoholkonsum</td>
+      </tr>
+      <tr>
+        <td>/links</td>
+        <td>Alle wichtigen Links auf einer Notiz</td>
+      </tr>
+      <tr>
+        <td>/e</td>
+        <td>Emotes werden dir angezeigt (Schlafen, Lecken, Atmen, Schlürfen, Kotzen, Rauchen) Bsp.: /e smoke</td>
+      </tr>
+      <tr>
+        <td>/pol</td>
+        <td>Zeigt welche Polizisten im Dienst sind</td>
+      </tr>
+      <tr>
+        <td>/ql</td>
+        <td>Quarrylock - Codelock muss in der Hand gehalten werden</td>
+      </tr>
+      <tr>
+        <td>/iteminfo</td>
+        <td>Zeigt für das in der Gürtelleiste ausgewählte Item Informationen an</td>
+      </tr>
+      <tr>
+        <td>/menu</td>
+        <td>Menüanzeige für Befehle wie /players oder /pol</td>
+      </tr>
+      <tr>
+        <td>/fs</td>
+        <td>Schmelzofen splitter an/aus</td>
+      </tr>
+      <tr>
+        <td>/claim /unclaim</td>
+        <td>Pferd beanspruchen / frei lassen</td>
+      </tr>
+      <tr>
+        <td>/q</td>
+        <td>Questmenü</td>
+      </tr>
+      <tr>
+        <td>/tphorse</td>
+        <td>Pferd teleportieren wenn es feststeckt</td>
+      </tr>
+      <tr>
+        <td>/jobs</td>
+        <td>Zeigt an, welche Berufe momentan "wach sind"</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>Polizei</h2>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Befehl</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>/gov start</td>
+        <td>Startet den Dienst</td>
+      </tr>
+      <tr>
+        <td>/gov stop</td>
+        <td>Beendet den Dienst</td>
+      </tr>
+      <tr>
+        <td>/gov s</td>
+        <td>Startet oder Beendet den Dienst</td>
+      </tr>
+      <tr>
+        <td>/gov stats</td>
+        <td>Gibt die Anzahl der Minuten im Dienst aus und viel viel noch nicht ausgezahlt wurde</td>
+      </tr>
+      <tr>
+        <td>/gov payout</td>
+        <td>Auszahlung</td>
+      </tr>
+      <tr>
+        <td>/palk</td>
+        <td>Zeig den Alkoholspiegel der Person an die ihr gerade anschaut</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

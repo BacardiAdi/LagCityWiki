@@ -1,0 +1,128 @@
+<!--
+title: Commands
+description: 
+published: false
+date: 2023-09-24T10:36:29.852Z
+tags: 
+editor: ckeditor
+dateCreated: 2023-09-24T09:52:30.132Z
+-->
+
+<h1>Commands</h1>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Command</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>growableentity.growall</td>
+        <td>Lässt alles wachsen</td>
+      </tr>
+      <tr>
+        <td>weather.load</td>
+        <td>Clear Dust Fog Overcast RainHeavy RainMild Storm</td>
+      </tr>
+      <tr>
+        <td>combatlog</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>entity.find_id</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>del assets/rust.ai/agents/chicken/chicken.prefab del assets/rust.ai/agents/bear/bear.prefab del assets/rust.ai/agents/stag/stag.prefab del assets/rust.ai/agents/wolf/wolf.prefab del assets/rust.ai/agents/boar/boar.prefab</td>
+        <td>Löscht die Entity zb bei assets/rust.ai/agents/stag/stag.prefab failed to sample navmesh at position (-659.5, 22.9, -262.3) on area: Walkable "SetDestination" can only be called on an active agent that has been placed on a NavMesh</td>
+      </tr>
+      <tr>
+        <td>world.rendermap</td>
+        <td>erstellt png Datei von map. !!Vorsicht!! blockiert den Server für Sekunden</td>
+      </tr>
+      <tr>
+        <td>antihack.terrain_protection 0</td>
+        <td>bei dem Fehler InsideTerrain Violation Level 200, nicht am Live Server benutzten</td>
+      </tr>
+      <tr>
+        <td>sv oceanlevel 1</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>heli.calltome</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>heli.call</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>magnetcrane</td>
+        <td>Autokran</td>
+      </tr>
+      <tr>
+        <td>/cure &lt;player&gt; norovirus</td>
+        <td>Einzelspielerheilung</td>
+      </tr>
+      <tr>
+        <td>/eradicate norovirus</td>
+        <td>Komplette Spielerheilung</td>
+      </tr>
+      <tr>
+        <td>notify.allplayers 0 "Nachricht"</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>spawn.report</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>Console: give.ITEM SteamID Anzahl</td>
+        <td>zB: give.Einbruchset 76561198968598988 5 / give.polizeizuganskarte StID Anz.</td>
+      </tr>
+      <tr>
+        <td>/tphorse</td>
+        <td>Pferd teleportieren</td>
+      </tr>
+      <tr>
+        <td>/changewl</td>
+        <td>Whitelist an/aus</td>
+      </tr>
+      <tr>
+        <td>/mj</td>
+        <td>Amtsmenü</td>
+      </tr>
+      <tr>
+        <td>/mj me</td>
+        <td>eigenes Amtsmenü</td>
+      </tr>
+      <tr>
+        <td>/b /adminhammer</td>
+        <td>Adminhammer</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2><strong>Bei wipe:</strong></h2>
+<ul>
+  <li>del pumpjack-static</li>
+  <li>del small_refinery_static</li>
+  <li>Perms wipe?</li>
+  <li>Pol/Amt</li>
+  <li>Apu`s</li>
+  <li>Schwarzmarkt</li>
+  <li>Spezial-NPC`s "Fabrik"</li>
+  <li>Map-Foto/Gebiete einzeichnen (CONSOLE: world.rendermap)</li>
+  <li>DISC - Gelbe Seiten löschen</li>
+  <li>Helitower _Schwarzmarktinsel + NPC</li>
+</ul>
+<h2><strong>Zertifikat erneuern</strong></h2>
+<ul>
+  <li>/etc/letsencrypt/</li>
+  <li>Datei anpassen (authenticator = standalone)</li>
+  <li>systemctl stop nginx</li>
+  <li>certbot renew</li>
+  <li>systemctl start nginx</li>
+</ul>
