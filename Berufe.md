@@ -2,7 +2,7 @@
 title: Berufe
 description: spezifische Tätigkeiten erlernen
 published: true
-date: 2023-11-14T10:49:09.772Z
+date: 2023-11-14T10:50:52.089Z
 tags: berufe
 editor: markdown
 dateCreated: 2023-11-14T10:30:15.412Z
