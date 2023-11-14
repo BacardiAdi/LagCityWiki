@@ -2,7 +2,7 @@
 title: Berufe
 description: spezifische Tätigkeiten erlernen
 published: true
-date: 2023-11-14T10:45:34.275Z
+date: 2023-11-14T10:49:09.772Z
 tags: berufe
 editor: markdown
 dateCreated: 2023-11-14T10:30:15.412Z
@@ -10,87 +10,90 @@ dateCreated: 2023-11-14T10:30:15.412Z
 
 # Berufe
 
-## Grafiker
-Grafikdesigner konzentriert sich auf die Gestaltung von Schildern, Bilderrahmen und anderen visuellen Medien mit Bildern und Texten. 
-Es besteht die Möglichkeit über ein Kit (/kit) Schilder in verschiedenen Größen zu kaufen.
-
-Bearbeitet werden können: Schilder, Bilderrahmen. 
-Erzeugt werden können: Prospekte (eine Seite) und Zeitungen (mehrer Seiten) 
-
-Zugehörige Befehle :
-
-/sil + jeweilige URL des Bildes, kann vom Discord direkt rauskopiert werden oder auf einer beliebigen Seite hochgelden werden. Die Größe sollte beachtet werden, denn die max. Größe beträgt .... 
-
-/silt + Message [fontsize:number][color:hex value][bgcolor:hex value]
-
-
-
 **Ausstatter:**
 
-Beschreibung:
+> Beschreibung:
+> 
+> Befehle:
+{.is-info}
 
-Befehle:
 
 
 
 **Arzt:**
 
-Beschreibung:
+> Beschreibung:
+>  
+> Befehle:
+{.is-info}
 
-Befehle:
 
 
 
 **Bergarbeiter:**
+ 
+> Beschreibung:
+>  
+> Befehle:
+{.is-info}
 
-Beschreibung:
-
-Befehle:
 
 
-
+ 
 **Mechaniker:**
 
-Beschreibung:
+> Beschreibung:
+>  
+> Befehle:
+{.is-info}
 
-Befehle:
 
 
 
 **Ölschürfer:**
+ 
+> Beschreibung:
+>  
+> Befehle:
+{.is-info}
 
-Beschreibung:
-
-Befehle:
 
 
 
 **Farmer & Pferdezüchter:**
+ 
+> Beschreibung:
+> 
+> Befehle:
+{.is-info}
 
-Beschreibung:
-
-Befehle:
 
 
 
 **Förster & Jäger:**
 
-Beschreibung:
+> Beschreibung:
+>  
+> Befehle:
+{.is-info}
 
-Befehle:
 
 
 
 **Schrotthändler:**
+ 
+> Beschreibung:
+>  
+> Befehle:
+{.is-info}
 
-Beschreibung:
 
-Befehle:
-
-
+ 
 
 **Händler:**
 
-Beschreibung:
+> Beschreibung:
+>  
+> Befehle:
+{.is-info}
 
-Befehle:
