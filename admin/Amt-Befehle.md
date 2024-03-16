@@ -2,7 +2,7 @@
 title: Amt - Befehle
 description: 
 published: false
-date: 2024-03-16T13:14:39.449Z
+date: 2024-03-16T13:16:51.666Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-16T13:12:54.648Z
@@ -11,17 +11,17 @@ dateCreated: 2024-03-16T13:12:54.648Z
 Amt Befehle
 
 
-/mj
+1. /mj
 Ausweiß ausstellen
 
-/mj me
+1. /mj me
 Ausweiß bei dir Ändern
 
-/changephoneno 12345678
+1. /changephoneno 12345678
 Telefonnummer ändern oder zurück holen
 
-/govtax
+1. /govtax
 Übersicht vom Staatskonto
 
-/govtax 100
+1. /govtax 100
 Geld vom Staatskonto auszahlen
