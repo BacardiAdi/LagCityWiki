@@ -2,7 +2,7 @@
 title:  LagCity - Create Your Story
 description: 
 published: true
-date: 2025-01-01T21:04:44.464Z
+date: 2025-01-01T21:05:47.772Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T09:41:24.967Z
@@ -20,6 +20,7 @@ Wähle deinen Weg als Gesetzeshüter, verbrecherisches Mastermind oder entscheid
 Schreibe deine **eigene epische Geschichte** in einer lebendigen und dynamischen Community.   
   
 Folge den unten aufgeführten Schritten, um dem Server beizutreten und dein Abenteuer in dieser packenden Welt zu beginnen!
+[![Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=frfWVg-f7LI)
 
   
  
