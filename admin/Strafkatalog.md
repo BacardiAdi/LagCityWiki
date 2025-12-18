@@ -2,13 +2,13 @@
 title: Strafkatalog Neu
 description: 
 published: true
-date: 2025-12-16T12:35:49.999Z
+date: 2025-12-18T09:41:21.545Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T15:44:16.217Z
 ---
 
-# Strafkatalog
+# Strafkatalog 
 
 | **Gesetzverstoß** | **Bußgeld** |     | **Hafteinheit** |     | Art (\*\*\*) | **Extra´s** |
 | --- | --- | --- | --- | --- | --- | --- |
