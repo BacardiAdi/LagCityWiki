@@ -2,19 +2,28 @@
 title: Befehle
 description: 
 published: true
-date: 2025-09-08T18:16:57.809Z
+date: 2025-12-19T21:21:32.323Z
 tags: 
 editor: ckeditor
 dateCreated: 2023-09-24T10:49:32.137Z
 -->
 
+<h1>&nbsp;</h1>
 <h1>Befehle</h1>
-<p>Ihr könnten jeden Befehl auch eine Taste zuweisen.</p>
-<p>Dafür öffnet ihr im Game mit F1 die Console und gebt folgendes ein:</p>
-<p><code>input.bind N chat.say "/v"</code></p>
-<p>wobei N für die Taste steht die ihr Benutzen wollt und das "/v" für den Befehl. In dem Fall wird jedes mal wenn ihr N drückt der Chatbefehl /v ausgeführt und deine Sprachreichweite verändert.</p>
-<p><code>input.bind C chat.say "/craft"</code> öffnet jedes mal wenn ihr C drückt das Craft Menü</p>
-<p>Genauere Beschreibungen findet ihr hier: <a href="https://wiki.facepunch.com/rust/Keybinds">https://wiki.facepunch.com/rust/Keybinds</a></p>
+<p>&nbsp;</p>
+<h2>Inhaltsverzeichnis</h2>
+<ul>
+  <li>Allgemein und Serverbezogen</li>
+  <li>Freunde</li>
+  <li>Interface, Menü &amp; Anzeige</li>
+  <li>Items, Gebäude &amp; Crafting</li>
+  <li>Pferde und Tiere</li>
+  <li>RP &amp; Statistik</li>
+  <li>Sprache &amp; Effekte</li>
+  <li>Polizei</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Allgemein und Serverbezogen</h2>
 <figure class="table">
   <table>
     <thead>
@@ -29,60 +38,66 @@ dateCreated: 2023-09-24T10:49:32.137Z
         <td>Mit dem erhaltenen Code kannst du dich im DC authentifizieren</td>
       </tr>
       <tr>
-        <td>/remove</td>
-        <td>Entfernt selbstgebaute Strukturen</td>
-      </tr>
-      <tr>
-        <td>/kit</td>
-        <td>Hier kannst du dir Kits für deinen jeweiligen Beruf holen</td>
-      </tr>
-      <tr>
-        <td>/stats</td>
-        <td>Du siehst deine aktuelle Statistik vom ZLevel</td>
-      </tr>
-      <tr>
-        <td>/craft</td>
-        <td>Du kannst dort spezielle Dinge craften für deinen Beruf</td>
-      </tr>
-      <tr>
         <td>/info</td>
         <td>Hier siehst du Infos zum Server</td>
       </tr>
       <tr>
-        <td>/friend &lt;add/remove&gt; &lt;player name or id&gt;</td>
-        <td>Fügt Freund hinzu (add) oder löscht ihn (remove) Inventarzugriff, abreißen von Gebäudeteilen, Pferd teilen</td>
-      </tr>
-      <tr>
-        <td>/friend list</td>
-        <td>Freundesliste</td>
-      </tr>
-      <tr>
-        <td>/ps &lt;Name&gt;</td>
-        <td>Suche nach einem Namen im Telefonbuch</td>
-      </tr>
-      <tr>
-        <td>/ipanel &lt;hide/show&gt;</td>
-        <td>Anzeige links oben anzeigen oder ausblenden</td>
-      </tr>
-      <tr>
-        <td>/v</td>
-        <td>Ändert die Voice Range 100m – 50m – 20m – 5m. Achtung das Betrifft auch das Megaphon Auf Taste binden (F1 Console): bind TASTE chat.say "/v"</td>
-      </tr>
-      <tr>
-        <td>/bank</td>
-        <td>Öffnet das Bankmenü</td>
-      </tr>
-      <tr>
-        <td>/players</td>
-        <td>Wer ist grad wach?!</td>
-      </tr>
-      <tr>
-        <td>/alk</td>
-        <td>Körperlicher Zustand nach dem Alkoholkonsum</td>
+        <td>/isonline</td>
+        <td>Etwas anschauen das einer Person gehört um zu sehen ob sie auf dem Server ist.</td>
       </tr>
       <tr>
         <td>/links</td>
         <td>Alle wichtigen Links auf einer Notiz</td>
+      </tr>
+      <tr>
+        <td>/ps &lt;Name&gt;</td>
+        <td>Suche im Telefonbuch nach dem angegebenen Namen</td>
+      </tr>
+      <tr>
+        <td>/remove</td>
+        <td>Entfern selbstgebaute Strukturen</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>Freunde</h2>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Befehl</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>/friend add &lt;Spieler&gt;</td>
+        <td>Freund hinzufügen</td>
+      </tr>
+      <tr>
+        <td>/friend remove</td>
+        <td>Freund entfernen</td>
+      </tr>
+      <tr>
+        <td>/friend list &lt;Spieler&gt;</td>
+        <td>zeigt deine Freundesliste</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>Interface, Menü &amp; Anzeige</h2>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Befehl</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>/bank</td>
+        <td>Öffnet das Bank-Menü</td>
       </tr>
       <tr>
         <td>/e</td>
@@ -93,56 +108,140 @@ dateCreated: 2023-09-24T10:49:32.137Z
         <td>Auflistung weiterer Emotes (z.B “mir ist kalt")</td>
       </tr>
       <tr>
-        <td>/pol</td>
-        <td>Zeigt welche Polizisten im Dienst sind</td>
+        <td>/ipanel hide</td>
+        <td>Anzeige links oben ausblenden</td>
+      </tr>
+      <tr>
+        <td>/ipanel show</td>
+        <td>Anzeige links oben anzeigen</td>
+      </tr>
+      <tr>
+        <td>/menu</td>
+        <td>Menüanzeige für Befehle wie z.B. Polizei und Medics, sowie auch Standard Befehle</td>
+      </tr>
+      <tr>
+        <td>/q</td>
+        <td>Questmenü öffnen</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>Items, Gebäude &amp; Crafting</h2>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Befehle</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>/craft</td>
+        <td>Öffnet das Crafting-Menü, wichtig für verschd. Berufe</td>
+      </tr>
+      <tr>
+        <td>/iteminfo</td>
+        <td>Zeigt die Item-Informationen an</td>
+      </tr>
+      <tr>
+        <td>/kit</td>
+        <td>Hier kannst du dein Starter und oder auch Berufs-Kits abholen</td>
       </tr>
       <tr>
         <td>/ql</td>
         <td>Quarrylock - Codelock muss in der Hand gehalten werden</td>
       </tr>
       <tr>
-        <td>/iteminfo</td>
-        <td>Zeigt Item Informationen an</td>
+        <td>/up</td>
+        <td>Zum Aufwerten von Buildingskins die durch die Skillpunkte erworben wurden. Funktioniert auch mit eigens gekaufen Bauskins.</td>
       </tr>
       <tr>
-        <td>/menu</td>
-        <td>Menüanzeige für Befehle wie /players oder /pol</td>
+        <td>/down</td>
+        <td>Zum Abwerten von Buildingskins die durch die Skillpunkte erworben wurden. Funktioniert auch mit eigens gekaufen Bauskins.</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p><code>input.bind C chat.say "/craft"</code> öffnet jedes mal wenn ihr C drückt das Craft Menü</p>
+<h2>Pferde und Tiere</h2>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Befehle</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>/claim</td>
+        <td>Pferd beanspruchen</td>
       </tr>
       <tr>
-        <td>/claim /unclaim</td>
-        <td>Pferd beanspruchen / frei lassen</td>
-      </tr>
-      <tr>
-        <td>/q</td>
-        <td>Questmenü</td>
+        <td>/unclaim</td>
+        <td>Pferd freigeben</td>
       </tr>
       <tr>
         <td>/tphorse</td>
-        <td>Pferd teleportieren wenn es feststeckt</td>
+        <td>Feststeckendes Pferd freigeben</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>RP &amp; Statistik</h2>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Befehle</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>/alk</td>
+        <td>Körperlicher Zustand nach dem Alkoholkonsum</td>
       </tr>
       <tr>
-        <td>/isonline</td>
-        <td>Etwas anschauen das einer Person gehört um zu sehen ob sie auf dem Server ist.</td>
-      </tr>
-      <tr>
-        <td>/noColorVision</td>
-        <td>Deaktiviert/Aktiviert die Effekte von Drogen.</td>
-      </tr>
-      <tr>
-        <td>/up oder /down</td>
-        <td>Zum Aufwerten von Buildingskins die durch die Skillpunkte erworben wurden. Funktioniert auch mit eigens gekaufen Bauskins.</td>
+        <td>/rpshow</td>
+        <td>Zeigt deine Aktuellen Reward-Points an (werden benötigt um Prefabs reservieren/stellen zu lassen)</td>
       </tr>
       <tr>
         <td>/sales</td>
         <td>Automatenumsatz und Steuern anzeigen lassen.</td>
       </tr>
       <tr>
-        <td>/rpshow</td>
-        <td>Zeigt dir erspielte RP an, welche du zum safen von Prefabs oder Ingamehilfe einsetzen kannst.</td>
+        <td>/stats</td>
+        <td>Du siehst deine aktuelle Statistik vom ZLevel</td>
       </tr>
     </tbody>
   </table>
 </figure>
+<h2>Sprache &amp; Effekte</h2>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Befehle</th>
+        <th>Beschreibung</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>/noColorVision</td>
+        <td>Deaktiviert/Aktiviert die Effekte von Drogen.</td>
+      </tr>
+      <tr>
+        <td>/v&nbsp;</td>
+        <td>Ändert Voice-Reichweite (100 m → 50 m → 20 m → 5 m)</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>Dafür öffnet ihr im Game mit F1 die Console und gebt folgendes ein:</p>
+<p><code>input.bind N chat.say "/v"</code></p>
+<p>wobei N für die Taste steht die ihr Benutzen wollt und das "/v" für den Befehl. In dem Fall wird jedes mal wenn ihr N drückt der Chatbefehl /v ausgeführt und deine Sprachreichweite verändert.</p>
 <h2>Polizei</h2>
 <figure class="table">
   <table>
@@ -174,8 +273,20 @@ dateCreated: 2023-09-24T10:49:32.137Z
         <td>Auszahlung</td>
       </tr>
       <tr>
+        <td>/gov w</td>
+        <td>Anzeigen von Dienstzeiten der jew. Kollegen und sich selber.</td>
+      </tr>
+      <tr>
+        <td>/p …</td>
+        <td>Schreiben im Polizei-Chat</td>
+      </tr>
+      <tr>
         <td>/palk</td>
         <td>Zeig den Alkoholspiegel der Person an die ihr gerade anschaut</td>
+      </tr>
+      <tr>
+        <td>/pz + /rpz</td>
+        <td>Das Ausrufen, sowie auch entfernen einer Polizeisperre. Schutz von Zivilisten bei Schießereien</td>
       </tr>
     </tbody>
   </table>
