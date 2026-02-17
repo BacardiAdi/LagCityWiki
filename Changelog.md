@@ -2,7 +2,7 @@
 title: Changelog
 description: 
 published: true
-date: 2026-02-17T10:18:55.366Z
+date: 2026-02-17T10:44:20.106Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-17T10:18:55.366Z
@@ -44,7 +44,7 @@ dateCreated: 2026-02-17T10:18:55.366Z
 
 - Neues Essen: Döner Kebab, kann der Koch herstellen
 
-<@&1155584746500407356> 
+
 
 ## Changelog 04.01.26 📝
 
@@ -65,7 +65,7 @@ dateCreated: 2026-02-17T10:18:55.366Z
 * **Admin Plugins** 🛡️
   * **Updates eingespielt** 🔄
 
-<@&1155584746500407356> 
+
 
 ## Changelog 📝
 * **Wiki erweitert** 📚
@@ -130,7 +130,6 @@ Bei Schlägen auf den Kopf oder Stürzen kannst du eine Gehirnerschütterung erl
 - Bei Kopfverletzungen: Bewegung vermeiden und Schmerztabletten nehmen
 
 
-<@&1155584746500407356> 
 
 **Changelog 08.11.25**
 
@@ -178,7 +177,6 @@ Bei Schlägen auf den Kopf oder Stürzen kannst du eine Gehirnerschütterung erl
 **Strafkatalog**
 Illegale ärztliche Tätigkeit / unerlaubte medizinische Behandlung
 
-<@&1155584746500407356> 
 **Changelog — 12.10.25**
 
 **🏦 Bank**
@@ -196,7 +194,7 @@ Illegale ärztliche Tätigkeit / unerlaubte medizinische Behandlung
 * Die Polizei bekommt einen **Polizeiausweis** zur Identifikation.
 * **Handschellen:** Befreiung dauert länger; betroffene Spieler laufen **50 % langsamer**.
 
-<@&1155584746500407356> 
+
 # Changelog — 04.10.25
 
 - Die Lag City Dollar wurden von *researchpaper* auf *documents* umgestellt.
@@ -206,7 +204,6 @@ Illegale ärztliche Tätigkeit / unerlaubte medizinische Behandlung
 - Die Anzeige der Pressemeldungen wurde korrigiert.
 - Map-Update.
 
-<@&1155584746500407356> 
 # Changelog 07.09.25 🙂
 * **Preisanpassungen** 💰
   * Schwefel, HQM und Sprit wurden teurer.
@@ -799,7 +796,6 @@ Changelog 4-7 Juli
 
 
 
-<@&1155584746500407356> 
 
 **Changelog 06.04.24**
 
