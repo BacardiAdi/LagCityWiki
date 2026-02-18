@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: 
 published: false
-date: 2026-02-18T18:44:23.080Z
+date: 2026-02-18T18:47:13.835Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -19,8 +19,7 @@ ExpandWiki
 https://lagcity.p-o-t.net/de/Befehle
 ```
 
+
 ExpandWiki
-```md
-**Frage:** Wann ist der Server‑Restart?
-**Antwort:** Server‑Restart ist jeden Tag um 05:00 und 15:00.
-```
+# Wann ist der Server‑Restart?
+Server‑Restart ist jeden Tag um 05:00 und 15:00.
