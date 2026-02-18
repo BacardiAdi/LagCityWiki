@@ -1,11 +1,17 @@
 ---
 title: Edeltraud-KI FaQ
 description: 
-published: true
-date: 2026-02-18T12:04:45.589Z
+published: false
+date: 2026-02-18T13:35:59.011Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
 ---
 
 test
+
+```md
+ExpandWiki
+**Frage:** Wann ist der Server-Restart?
+**Antwort:** In der offiziellen LagCity-Doku, die mir vorliegt, sind keine festen Restart-Zeiten genannt. Laut Spielerangabe ist der Restart täglich um **05:00 Uhr** und **15:00 Uhr**. Zur Kontrolle kannst du ingame **/info** nutzen. https://lagcity.p-o-t.net/de/Befehle
+```
