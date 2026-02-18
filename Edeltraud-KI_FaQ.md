@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: 
 published: false
-date: 2026-02-18T13:39:52.258Z
+date: 2026-02-18T18:44:23.080Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -17,4 +17,10 @@ ExpandWiki
 **Frage:** Wie kann ich auf LagCity „treten“ (Nahkampf/Kick)?
 **Antwort:** Im offiziellen LagCity-Wiki ist aktuell kein Nahkampf-Befehl wie „/fight“ oder „/kampf“ dokumentiert; in der Befehlsübersicht sind z.B. Emotes über **/e** und **/ec** gelistet. Wenn du im Spiel ein Nahkampf-Menü dafür siehst, erstelle bitte ein Support-Ticket mit Screenshot und der genauen Eingabe, damit wir das prüfen und ggf. ins Wiki aufnehmen.  
 https://lagcity.p-o-t.net/de/Befehle
+```
+
+ExpandWiki
+```md
+**Frage:** Wann ist der Server‑Restart?
+**Antwort:** Server‑Restart ist jeden Tag um 05:00 und 15:00.
 ```
