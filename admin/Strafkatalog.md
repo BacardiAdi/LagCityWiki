@@ -1,8 +1,8 @@
 ---
 title: Strafkatalog Neu
 description: 
-published: true
-date: 2025-12-18T09:46:28.637Z
+published: false
+date: 2026-02-23T07:48:55.856Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T15:44:16.217Z
