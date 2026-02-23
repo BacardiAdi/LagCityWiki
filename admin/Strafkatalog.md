@@ -1,8 +1,8 @@
 ---
-title: Strafkatalog Neu
+title: Strafkatalog in Arbeit
 description: 
 published: false
-date: 2026-02-23T07:48:55.856Z
+date: 2026-02-23T07:51:14.622Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T15:44:16.217Z
