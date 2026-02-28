@@ -2,14 +2,14 @@
 title: Drogen
 description: 
 published: true
-date: 2026-02-28T14:46:40.547Z
+date: 2026-02-28T15:27:35.955Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T11:49:56.134Z
 ---
 
 # Items - Kategorie: Drogen
-*Generiert am 28.02.2026 15:46:38*
+*Generiert am 28.02.2026 16:27:33*
 
 ## Inhaltsverzeichnis
 
@@ -306,6 +306,8 @@ dateCreated: 2025-12-21T11:49:56.134Z
 - Gerauchter Joint
 
 ### Mega Joint - Illegal
+
+![Mega Joint - Illegal](https://steamuserimages-a.akamaihd.net/ugc/1852667385212822455/D5EF3468E0DDB60117D78E9C46A7A1E354659BBC/)
 
 > Ein gedrehter Mega Joint aus Marihuana und Tabak – illegale Droge mit entspannender Wirkung und charakteristischem Geruch
 
