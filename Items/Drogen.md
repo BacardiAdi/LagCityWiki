@@ -2,14 +2,14 @@
 title: Drogen
 description: 
 published: true
-date: 2026-02-28T15:27:35.955Z
+date: 2026-02-28T19:30:38.865Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T11:49:56.134Z
 ---
 
 # Items - Kategorie: Drogen
-*Generiert am 28.02.2026 16:27:33*
+*Generiert am 28.02.2026 20:30:38*
 
 ## Inhaltsverzeichnis
 
@@ -22,7 +22,6 @@ dateCreated: 2025-12-21T11:49:56.134Z
 - [Drug Scrap](#drug-scrap) ✓ Herstellbar
 - [Drug Wood](#drug-wood) ✓ Herstellbar
 - [Joint - Illegal](#joint---illegal) ✓ Herstellbar
-- [Mega Joint - Illegal](#mega-joint---illegal) ✓ Herstellbar
 - [Trockenpilz - Illegal](#trockenpilz---illegal) ✓ Herstellbar
 - [Marihuana](#marihuana) ✓ Sammelbar
 - [Mohn-Milchsaft](#mohn-milchsaft) ✓ Sammelbar
@@ -292,58 +291,6 @@ dateCreated: 2025-12-21T11:49:56.134Z
 **Drogen-Effekte:**
 
 - Atem-Effekt
-- Rauch-Effekt
-- Verbrauch: 5 Stück
-- Dauer: 10 Sekunden
-
-**Spieler-Effekte:**
-
-- SpeedBoost: -0.2 - 0 (Dauer: 120s)
-
-**Abfallprodukt:**
-
-- Erzeugt: plantfiber
-- Gerauchter Joint
-
-### Mega Joint - Illegal
-
-![Mega Joint - Illegal](https://steamuserimages-a.akamaihd.net/ugc/1852667385212822455/D5EF3468E0DDB60117D78E9C46A7A1E354659BBC/)
-
-> Ein gedrehter Mega Joint aus Marihuana und Tabak – illegale Droge mit entspannender Wirkung und charakteristischem Geruch
-
-**Shortname:** `crankshaft1`
-**Skin-ID:** `2700444591`
-**Status:** Herstellbar
-
-**Herstellung:**
-
-- Werkbank-Level: 0
-- Herstellungsmenge: 1
-- Max. Herstellungsmenge: 25
-- Herstellungsdauer: 5s
-- Hinweis: Joint - Illegal
-
-**Rezept:**
-
-- 2 x Marihuana
-- 1 x Papier
-- 2 x Tabak
-
-**Stoffwechsel-Effekte:**
-
-- Wasser: -50
-- Heilung: 50
-- Max-Heilung: 0.2
-
-**Modifikatoren:**
-
-- Comfort: 1 (Dauer: 120s)
-- Wood Yield: 1 (Dauer: 60s)
-
-**Drogen-Effekte:**
-
-- Atem-Effekt
-- Shake-Effekt
 - Rauch-Effekt
 - Verbrauch: 5 Stück
 - Dauer: 10 Sekunden
