@@ -2,14 +2,15 @@
 title: test
 description: 
 published: true
-date: 2026-02-28T14:04:17.729Z
+date: 2026-02-28T14:25:59.359Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-28T12:01:43.495Z
 ---
 
 <h1>Item-Definitionen (Crafting & Forschung)</h1>
-<p><em>Generiert am 28.02.2026 15:04:15</em></p>
+<p><em>Generiert am 28.02.2026 15:25:57</em></p>
+<p><em>Hinweis: RPSkills nicht verfügbar – Skill-Zuordnung konnte nicht geladen werden.</em></p>
 
 <h2>Inhaltsverzeichnis</h2>
 <h3><a href="#ore">Bergbau</a> (3 Items)</h3>
@@ -222,7 +223,8 @@ dateCreated: 2026-02-28T12:01:43.495Z
 <hr>
 
 <h2 id="ore">Bergbau</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.ore</p>
+<p><strong>Berechtigung:</strong> PoTConfig.ore
+</p>
 
 <h3 id="item-furnace.large">Großer Schmelzofen (furnace.large)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -230,7 +232,8 @@ dateCreated: 2026-02-28T12:01:43.495Z
 <p>
 <strong>Name:</strong> Großer Schmelzofen<br>
 <strong>Shortname:</strong> furnace.large<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.ore (Bergbau)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.ore (Bergbau)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -248,7 +251,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hohes externes Steintor<br>
 <strong>Shortname:</strong> gates.external.high.stone<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.ore (Bergbau)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.ore (Bergbau)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -260,7 +264,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hohe Steinmauer<br>
 <strong>Shortname:</strong> wall.external.high.stone<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.ore (Bergbau)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.ore (Bergbau)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -269,7 +274,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="beehive">Bienenstock</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.beehive</p>
+<p><strong>Berechtigung:</strong> PoTConfig.beehive
+</p>
 
 <h3 id="item-beehive">Bienenstock (beehive)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -277,7 +283,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Bienenstock<br>
 <strong>Shortname:</strong> beehive<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.beehive (Bienenstock)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.beehive (Bienenstock)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -292,14 +299,16 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="dirtymoney100">dirtymoney100</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.dirtymoney100</p>
+<p><strong>Berechtigung:</strong> PoTConfig.dirtymoney100
+</p>
 
 <h3 id="item-industrialer.crafter">industrialer.crafter</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> industrialer.crafter<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.dirtymoney100 (dirtymoney100)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.dirtymoney100 (dirtymoney100)
+<br>
 <strong>Herstellung:</strong> Nicht direkt herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -314,7 +323,8 @@ Wahrscheinlichkeit: 50%<br>
 <hr>
 
 <h2 id="electrician">Elektrik</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.electrician</p>
+<p><strong>Berechtigung:</strong> PoTConfig.electrician
+</p>
 
 <h3 id="item-autoturret">Automatisches Geschütz (autoturret)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -322,7 +332,8 @@ Wahrscheinlichkeit: 50%<br>
 <p>
 <strong>Name:</strong> Automatisches Geschütz<br>
 <strong>Shortname:</strong> autoturret<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -340,7 +351,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Computerstation<br>
 <strong>Shortname:</strong> computerstation<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -352,7 +364,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Drohne<br>
 <strong>Shortname:</strong> drone<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -364,7 +377,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Große wiederaufladbare Batterie<br>
 <strong>Shortname:</strong> electric.battery.rechargable.large<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -376,7 +390,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Windkraftanlage<br>
 <strong>Shortname:</strong> generator.wind.scrap<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -388,7 +403,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> PTZ Überwachungskamera<br>
 <strong>Shortname:</strong> ptz.cctv.camera<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -400,7 +416,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Intelligenter Schalter<br>
 <strong>Shortname:</strong> smart.switch<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.electrician (Elektrik)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -409,7 +426,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="car">Fahrzeuge</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.car</p>
+<p><strong>Berechtigung:</strong> PoTConfig.car
+</p>
 
 <h3 id="item-carburetor2">Mittlerer Vergaser (carburetor2)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -417,7 +435,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Mittlerer Vergaser<br>
 <strong>Shortname:</strong> carburetor2<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -429,7 +448,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hochwertiger Vergaser<br>
 <strong>Shortname:</strong> carburetor3<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Angepasste Herstellungskosten:</strong><br>
@@ -444,7 +464,8 @@ Metallfragmente (metal.fragments): 500 (Standard: 150)<br>
 <p>
 <strong>Name:</strong> Mittlere Kurbelwelle<br>
 <strong>Shortname:</strong> crankshaft2<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -456,7 +477,8 @@ Metallfragmente (metal.fragments): 500 (Standard: 150)<br>
 <p>
 <strong>Name:</strong> Hochwertige Kurbelwelle<br>
 <strong>Shortname:</strong> crankshaft3<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Angepasste Herstellungskosten:</strong><br>
@@ -471,7 +493,8 @@ Metallfragmente (metal.fragments): 500 (Standard: 150)<br>
 <p>
 <strong>Name:</strong> Modulare Hebebühne<br>
 <strong>Shortname:</strong> modularcarlift<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -489,7 +512,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Mittlere Kolben<br>
 <strong>Shortname:</strong> piston2<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -501,7 +525,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hochwertige Kolben<br>
 <strong>Shortname:</strong> piston3<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Angepasste Herstellungskosten:</strong><br>
@@ -516,7 +541,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Mittlere Zündkerzen<br>
 <strong>Shortname:</strong> sparkplug2<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -528,7 +554,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hochwertige Zündkerzen<br>
 <strong>Shortname:</strong> sparkplug3<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Angepasste Herstellungskosten:</strong><br>
@@ -543,7 +570,8 @@ Metallfragmente (metal.fragments): 500 (Standard: 150)<br>
 <p>
 <strong>Name:</strong> Mittlere Ventile<br>
 <strong>Shortname:</strong> valve2<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -555,7 +583,8 @@ Metallfragmente (metal.fragments): 500 (Standard: 150)<br>
 <p>
 <strong>Name:</strong> Hochwertige Ventile<br>
 <strong>Shortname:</strong> valve3<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Angepasste Herstellungskosten:</strong><br>
@@ -570,7 +599,8 @@ Metallfragmente (metal.fragments): 500 (Standard: 150)<br>
 <p>
 <strong>Name:</strong> Cockpit Fahrzeugmodul<br>
 <strong>Shortname:</strong> vehicle.1mod.cockpit<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -582,7 +612,8 @@ Metallfragmente (metal.fragments): 500 (Standard: 150)<br>
 <p>
 <strong>Name:</strong> Gepanzertes Cockpit-Fahrzeug-Modul<br>
 <strong>Shortname:</strong> vehicle.1mod.cockpit.armored<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Angepasste Herstellungskosten:</strong><br>
@@ -598,7 +629,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Cockpit mit Motor Fahrzeugmodul<br>
 <strong>Shortname:</strong> vehicle.1mod.cockpit.with.engine<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -610,7 +642,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Motor Fahrzeugmodul<br>
 <strong>Shortname:</strong> vehicle.1mod.engine<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -622,7 +655,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Pritschen Fahrzeugmodul<br>
 <strong>Shortname:</strong> vehicle.1mod.flatbed<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -634,7 +668,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Gepanzertes Passagier-Fahrzeug Modul<br>
 <strong>Shortname:</strong> vehicle.1mod.passengers.armored<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Angepasste Herstellungskosten:</strong><br>
@@ -650,7 +685,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Fahrzeugmodul für Rücksitze<br>
 <strong>Shortname:</strong> vehicle.1mod.rear.seats<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -662,7 +698,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Lager Fahrzeugmodul<br>
 <strong>Shortname:</strong> vehicle.1mod.storage<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -674,7 +711,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Taxi Fahrzeugmodul<br>
 <strong>Shortname:</strong> vehicle.1mod.taxi<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -686,7 +724,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Camper-Fahrzeugmodul<br>
 <strong>Shortname:</strong> vehicle.2mod.camper<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -698,7 +737,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Großes Pritschenfahrzeug-Modul<br>
 <strong>Shortname:</strong> vehicle.2mod.flatbed<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -710,7 +750,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Kraftstofftank Fahrzeugmodul<br>
 <strong>Shortname:</strong> vehicle.2mod.fuel.tank<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -722,7 +763,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Modul für Personenkraftwagen<br>
 <strong>Shortname:</strong> vehicle.2mod.passengers<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.car (Fahrzeuge)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -731,14 +773,16 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <hr>
 
 <h2 id="teaheal">Heil-Tees</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.teaheal</p>
+<p><strong>Berechtigung:</strong> PoTConfig.teaheal
+</p>
 
 <h3 id="item-healingtea.advanced">healingtea.advanced</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> healingtea.advanced<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.teaheal (Heil-Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.teaheal (Heil-Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -749,7 +793,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> healingtea.pure<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.teaheal (Heil-Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.teaheal (Heil-Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -760,7 +805,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> maxhealthtea.advanced<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.teaheal (Heil-Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.teaheal (Heil-Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -771,7 +817,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> maxhealthtea.pure<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.teaheal (Heil-Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.teaheal (Heil-Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -780,7 +827,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <hr>
 
 <h2 id="wood">Holzverarbeitung</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.wood</p>
+<p><strong>Berechtigung:</strong> PoTConfig.wood
+</p>
 
 <h3 id="item-chainsaw">Kettensäge (chainsaw)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -788,7 +836,8 @@ Hochwertiges Metall (metal.refined): 50 (Standard: 5)<br>
 <p>
 <strong>Name:</strong> Kettensäge<br>
 <strong>Shortname:</strong> chainsaw<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.wood (Holzverarbeitung)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.wood (Holzverarbeitung)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -807,7 +856,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hohes externes Holztor<br>
 <strong>Shortname:</strong> gates.external.high.wood<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.wood (Holzverarbeitung)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.wood (Holzverarbeitung)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -819,7 +869,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hohe Holzmauer<br>
 <strong>Shortname:</strong> wall.external.high<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.wood (Holzverarbeitung)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.wood (Holzverarbeitung)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -831,7 +882,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Wachturm<br>
 <strong>Shortname:</strong> watchtower.wood<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.wood (Holzverarbeitung)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.wood (Holzverarbeitung)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -840,7 +892,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="chickencoop">Hühnerstall</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.chickencoop</p>
+<p><strong>Berechtigung:</strong> PoTConfig.chickencoop
+</p>
 
 <h3 id="item-chickencoop">Hühnerstall (chickencoop)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -848,7 +901,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hühnerstall<br>
 <strong>Shortname:</strong> chickencoop<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.chickencoop (Hühnerstall)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.chickencoop (Hühnerstall)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -863,7 +917,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="cook">Kochen</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.cook</p>
+<p><strong>Berechtigung:</strong> PoTConfig.cook
+</p>
 
 <h3 id="item-bread.loaf">Brotlaib (bread.loaf)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -871,7 +926,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Brotlaib<br>
 <strong>Shortname:</strong> bread.loaf<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -883,7 +939,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Apfelkuchen<br>
 <strong>Shortname:</strong> pie.apple<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -895,7 +952,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Bärenpastete<br>
 <strong>Shortname:</strong> pie.bear<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -907,7 +965,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hühnerpastete<br>
 <strong>Shortname:</strong> pie.chicken<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -919,7 +978,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Fischpastete<br>
 <strong>Shortname:</strong> pie.fish<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -931,7 +991,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Jägerpastete<br>
 <strong>Shortname:</strong> pie.hunters<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -943,7 +1004,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Schweinefleischpastete<br>
 <strong>Shortname:</strong> pie.pork<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -955,7 +1017,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Kürbiskuchen<br>
 <strong>Shortname:</strong> pie.pumpkin<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -967,7 +1030,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Überlebendenkuchen<br>
 <strong>Shortname:</strong> pie.survivors<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.cook (Kochen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -976,7 +1040,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="farmer">Landwirtschaft</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.farmer</p>
+<p><strong>Berechtigung:</strong> PoTConfig.farmer
+</p>
 
 <h3 id="item-planter.large">Große Pflanzkiste (planter.large)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -984,7 +1049,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Große Pflanzkiste<br>
 <strong>Shortname:</strong> planter.large<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.farmer (Landwirtschaft)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.farmer (Landwirtschaft)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -993,7 +1059,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="medic">Medizin</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.medic</p>
+<p><strong>Berechtigung:</strong> PoTConfig.medic
+</p>
 
 <h3 id="item-largemedkit">Großer Verbandskasten (largemedkit)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1001,7 +1068,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Großer Verbandskasten<br>
 <strong>Shortname:</strong> largemedkit<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.medic (Medizin)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.medic (Medizin)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1010,14 +1078,16 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="mobilephone">Mobiltelefon</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.mobilephone</p>
+<p><strong>Berechtigung:</strong> PoTConfig.mobilephone
+</p>
 
 <h3 id="item-mobilephone">mobilephone</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> mobilephone<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.mobilephone (Mobiltelefon)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.mobilephone (Mobiltelefon)
+<br>
 <strong>Herstellung:</strong> Nicht direkt herstellbar<br>
 </p>
 </div>
@@ -1026,7 +1096,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="notuse">Nicht verfügbar</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.notuse</p>
+<p><strong>Berechtigung:</strong> PoTConfig.notuse
+</p>
 
 <h3 id="item-military flamethrower">Militärischer Flammenwerfer (military flamethrower)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1034,7 +1105,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Militärischer Flammenwerfer<br>
 <strong>Shortname:</strong> military flamethrower<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.notuse (Nicht verfügbar)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.notuse (Nicht verfügbar)
+<br>
 <strong>Herstellung:</strong> Nicht direkt herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 1%<br>
 </p>
@@ -1052,7 +1124,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> Minigun<br>
 <strong>Shortname:</strong> minigun<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.notuse (Nicht verfügbar)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.notuse (Nicht verfügbar)
+<br>
 <strong>Herstellung:</strong> Nicht direkt herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 1%<br>
 </p>
@@ -1067,7 +1140,8 @@ Menge: 1
 <hr>
 
 <h2 id="oil">Ölverarbeitung</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.oil</p>
+<p><strong>Berechtigung:</strong> PoTConfig.oil
+</p>
 
 <h3 id="item-small.oil.refinery">Kleine Ölraffinerie (small.oil.refinery)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1075,7 +1149,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> Kleine Ölraffinerie<br>
 <strong>Shortname:</strong> small.oil.refinery<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.oil (Ölverarbeitung)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.oil (Ölverarbeitung)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1090,7 +1165,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="horse">Pferde</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.horse</p>
+<p><strong>Berechtigung:</strong> PoTConfig.horse
+</p>
 
 <h3 id="item-horse.armor.roadsign">Verkehrsschild-Pferderüstung (horse.armor.roadsign)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1098,7 +1174,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Verkehrsschild-Pferderüstung<br>
 <strong>Shortname:</strong> horse.armor.roadsign<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.horse (Pferde)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.horse (Pferde)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1110,7 +1187,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Hochwertige Hufeisen<br>
 <strong>Shortname:</strong> horse.shoes.advanced<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.horse (Pferde)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.horse (Pferde)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1119,7 +1197,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="weaponexp">Sprengstoff / Schwere Waffen</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.weaponExp</p>
+<p><strong>Berechtigung:</strong> PoTConfig.weaponExp
+</p>
 
 <h3 id="item-explosive.timed">Zeitgesteuerte Sprengladung (explosive.timed)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1127,7 +1206,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Zeitgesteuerte Sprengladung<br>
 <strong>Shortname:</strong> explosive.timed<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1139,7 +1219,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> F1 Granate<br>
 <strong>Shortname:</strong> grenade.f1<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1150,7 +1231,8 @@ Wahrscheinlichkeit: 25%<br>
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> homingmissile.launcher<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -1174,7 +1256,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> Mehrfach Granatwerfer<br>
 <strong>Shortname:</strong> multiplegrenadelauncher<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1191,7 +1274,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> Raketenwerfer<br>
 <strong>Shortname:</strong> rocket.launcher<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponExp (Sprengstoff / Schwere Waffen)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -1210,14 +1294,16 @@ Menge: 1
 <hr>
 
 <h2 id="tea">Tees</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.tea</p>
+<p><strong>Berechtigung:</strong> PoTConfig.tea
+</p>
 
 <h3 id="item-craftingtea_quality">craftingtea_quality</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> craftingtea_quality<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1228,7 +1314,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> harvestingtea<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1239,7 +1326,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> oretea.advanced<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1250,7 +1338,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> oretea.pure<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1261,7 +1350,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> radiationremovetea.advanced<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1272,7 +1362,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> radiationremovetea.pure<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1283,7 +1374,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> radiationresisttea.advanced<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1294,7 +1386,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> radiationresisttea.pure<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1305,7 +1398,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> scraptea.advanced<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1316,7 +1410,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> scraptea.pure<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1327,7 +1422,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> woodtea.advanced<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.tea (Tees)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1336,7 +1432,8 @@ Menge: 1
 <hr>
 
 <h2 id="vending-machine">Verkaufsautomat</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.vending.machine</p>
+<p><strong>Berechtigung:</strong> PoTConfig.vending.machine
+</p>
 
 <h3 id="item-vending.machine">Verkaufsautomat (vending.machine)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1344,7 +1441,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> Verkaufsautomat<br>
 <strong>Shortname:</strong> vending.machine<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.vending.machine (Verkaufsautomat)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.vending.machine (Verkaufsautomat)
+<br>
 <strong>Herstellung:</strong> Nicht direkt herstellbar<br>
 </p>
 </div>
@@ -1353,7 +1451,8 @@ Menge: 1
 <hr>
 
 <h2 id="weaponis">Waffen (Illegale Shotguns)</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.weaponIS</p>
+<p><strong>Berechtigung:</strong> PoTConfig.weaponIS
+</p>
 
 <h3 id="item-shotgun.m4">M4 Schrotflinte (shotgun.m4)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1361,7 +1460,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> M4 Schrotflinte<br>
 <strong>Shortname:</strong> shotgun.m4<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponIS (Waffen (Illegale Shotguns))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponIS (Waffen (Illegale Shotguns))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1378,7 +1478,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> Spas-12 Schrotflinte<br>
 <strong>Shortname:</strong> shotgun.spas12<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponIS (Waffen (Illegale Shotguns))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponIS (Waffen (Illegale Shotguns))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1392,7 +1493,8 @@ Menge: 1
 <hr>
 
 <h2 id="weaponi7">Waffen (Illegale Tier 7)</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.weaponI7</p>
+<p><strong>Berechtigung:</strong> PoTConfig.weaponI7
+</p>
 
 <h3 id="item-hmlmg">HMLMG (hmlmg)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1400,9 +1502,11 @@ Menge: 1
 <p>
 <strong>Name:</strong> HMLMG<br>
 <strong>Shortname:</strong> hmlmg<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponI7 (Waffen (Illegale Tier 7))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponI7 (Waffen (Illegale Tier 7))
+<br>
 <strong>Herstellung:</strong> Nicht direkt herstellbar<br>
-<strong>Craft-Berechtigung:</strong> crafts.hmlmg (via /craft)<br>
+<strong>Craft-Berechtigung:</strong> crafts.hmlmg (via /craft)
+<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1416,7 +1520,8 @@ Menge: 1
 <hr>
 
 <h2 id="weaponi7">Waffen (Illegale Tier 7)</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.weaponi7</p>
+<p><strong>Berechtigung:</strong> PoTConfig.weaponi7
+</p>
 
 <h3 id="item-lmg.m249">M249 (lmg.m249)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1424,7 +1529,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> M249<br>
 <strong>Shortname:</strong> lmg.m249<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponi7 (Waffen (Illegale Tier 7))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponi7 (Waffen (Illegale Tier 7))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1441,7 +1547,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> L96 Gewehr<br>
 <strong>Shortname:</strong> rifle.l96<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponi7 (Waffen (Illegale Tier 7))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weaponi7 (Waffen (Illegale Tier 7))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1455,7 +1562,8 @@ Menge: 1
 <hr>
 
 <h2 id="weapon5">Waffen (Tier 5)</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.weapon5</p>
+<p><strong>Berechtigung:</strong> PoTConfig.weapon5
+</p>
 
 <h3 id="item-pistol.m92">M92 Pistole (pistol.m92)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1463,7 +1571,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> M92 Pistole<br>
 <strong>Shortname:</strong> pistol.m92<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1479,7 +1588,8 @@ Menge: 1
 <div style="flex: 1;">
 <p>
 <strong>Shortname:</strong> pistol.python<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -1498,7 +1608,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Selbstgebaute MP<br>
 <strong>Shortname:</strong> smg.2<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -1517,7 +1628,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> MP5A4<br>
 <strong>Shortname:</strong> smg.mp5<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -1541,7 +1653,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Thompson<br>
 <strong>Shortname:</strong> smg.thompson<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -1560,7 +1673,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Handgefertigtes SMG<br>
 <strong>Shortname:</strong> t1_smg<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon5 (Waffen (Tier 5))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -1581,7 +1695,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="weapon7">Waffen (Tier 7)</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.weapon7</p>
+<p><strong>Berechtigung:</strong> PoTConfig.weapon7
+</p>
 
 <h3 id="item-rifle.ak">Sturmgewehr (rifle.ak)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1589,9 +1704,11 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Sturmgewehr<br>
 <strong>Shortname:</strong> rifle.ak<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))
+<br>
 <strong>Herstellung:</strong> Nicht direkt herstellbar<br>
-<strong>Craft-Berechtigung:</strong> crafts.rifle_ak (via /craft)<br>
+<strong>Craft-Berechtigung:</strong> crafts.rifle_ak (via /craft)
+<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1608,9 +1725,11 @@ Menge: 1
 <p>
 <strong>Name:</strong> Karabiner Gewehr<br>
 <strong>Shortname:</strong> rifle.bolt<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))
+<br>
 <strong>Herstellung:</strong> Nicht direkt herstellbar<br>
-<strong>Craft-Berechtigung:</strong> crafts.rifle_bolt (via /craft)<br>
+<strong>Craft-Berechtigung:</strong> crafts.rifle_bolt (via /craft)
+<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1627,7 +1746,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> LR-300 Sturmgewehr<br>
 <strong>Shortname:</strong> rifle.lr300<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1644,7 +1764,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> M39 Gewehr<br>
 <strong>Shortname:</strong> rifle.m39<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 <p><strong>Loot-Ersetzung:</strong><br>
@@ -1661,7 +1782,8 @@ Menge: 1
 <p>
 <strong>Name:</strong> Halbautomatisches Gewehr<br>
 <strong>Shortname:</strong> rifle.semiauto<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -1680,7 +1802,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> SKS<br>
 <strong>Shortname:</strong> rifle.sks<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon7 (Waffen (Tier 7))
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 <strong>Max. Zustand (Loot):</strong> 50%<br>
 </p>
@@ -1696,7 +1819,8 @@ Wahrscheinlichkeit: 25%<br>
 <hr>
 
 <h2 id="weapon">Waffen-Zubehör</h2>
-<p><strong>Berechtigung:</strong> PoTConfig.weapon</p>
+<p><strong>Berechtigung:</strong> PoTConfig.weapon
+</p>
 
 <h3 id="item-grenade.flashbang">Blendgranate (grenade.flashbang)</h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
@@ -1704,7 +1828,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Blendgranate<br>
 <strong>Shortname:</strong> grenade.flashbang<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1716,7 +1841,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Selbstgebaute Landmine<br>
 <strong>Shortname:</strong> trap.landmine<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1728,7 +1854,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Verlängertes Magazin<br>
 <strong>Shortname:</strong> weapon.mod.extendedmags<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1740,7 +1867,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Verlängertes Magazin<br>
 <strong>Shortname:</strong> weapon.mod.extendedmags<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1752,7 +1880,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Waffenlicht<br>
 <strong>Shortname:</strong> weapon.mod.flashlight<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1764,7 +1893,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Reflexvisier<br>
 <strong>Shortname:</strong> weapon.mod.holosight<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1776,7 +1906,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Rückstoßverstärker<br>
 <strong>Shortname:</strong> weapon.mod.muzzleboost<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1788,7 +1919,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> Schalldämpfer<br>
 <strong>Shortname:</strong> weapon.mod.silencer<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
@@ -1800,7 +1932,8 @@ Wahrscheinlichkeit: 25%<br>
 <p>
 <strong>Name:</strong> 8x Zoom Zielfernrohr<br>
 <strong>Shortname:</strong> weapon.mod.small.scope<br>
-<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)<br>
+<strong>Forschungs-Berechtigung:</strong> PoTConfig.weapon (Waffen-Zubehör)
+<br>
 <strong>Herstellung:</strong> Herstellbar<br>
 </p>
 </div>
