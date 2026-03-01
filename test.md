@@ -2,14 +2,14 @@
 title: test
 description: 
 published: true
-date: 2026-03-01T20:25:56.073Z
+date: 2026-03-01T20:43:43.716Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-28T12:01:43.495Z
 ---
 
 <h1>Item-Definitionen (Crafting & Forschung)</h1>
-<p><em>Generiert am 01.03.2026 21:25:54</em></p>
+<p><em>Generiert am 01.03.2026 21:43:42</em></p>
 <p><em>Hinweis: RPSkills nicht verfügbar – Skill-Zuordnung konnte nicht geladen werden.</em></p>
 
 <h2 id="ore">Bergbau</h2>
