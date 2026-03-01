@@ -2,7 +2,7 @@
 title: Fahrzeuge
 description: 
 published: true
-date: 2026-03-01T21:32:38.859Z
+date: 2026-03-01T21:32:40.810Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:16:08.875Z
