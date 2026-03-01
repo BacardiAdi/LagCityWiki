@@ -2,20 +2,20 @@
 title: Drogen
 description: 
 published: true
-date: 2026-03-01T21:04:27.153Z
+date: 2026-03-01T21:22:01.851Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T11:49:56.134Z
 ---
 
 # Items - Kategorie: Drogen
-*Generiert am 01.03.2026 22:04:26*
+*Generiert am 01.03.2026 22:22:00*
 
 ## Drogen
 
 ### Base Drug
 
-![Base Drug](https://images.steamusercontent.com/ugc/1852664636035739231/E2E56FA75BE1ADBE9FCF29867027050289CBC251/)
+<img src="https://images.steamusercontent.com/ugc/1852664636035739231/E2E56FA75BE1ADBE9FCF29867027050289CBC251/" alt="Base Drug" width="64" height="64" />
 
 > Synthetische Basisdroge aus chemischen Rohstoffen – extrem gefährlich und hochpotent
 
@@ -33,11 +33,11 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 **Rezept:**
 
-- 2 x Unbekanntes Mineral
-- 3 x Schwefelsäure
-- 5 x Strahlenschutz-Tabletten
-- 1 x Zucker
-- 1 x Salz
+- <img src="https://images.steamusercontent.com/ugc/956349495967513628/60D8A981CF1DF11CE16CC587A21EF0AFB11F54D2/" alt="Unbekanntes Mineral" width="24" height="24" style="vertical-align: middle;" /> 2 x Unbekanntes Mineral
+- <img src="https://images.steamusercontent.com/ugc/1852664636035813336/E25D34D1371034FDFA563AB66EA05CBF78DC7F3C/" alt="Schwefelsäure" width="24" height="24" style="vertical-align: middle;" /> 3 x Schwefelsäure
+- <img src="https://cdn.carbonmod.gg/items/antiradpills.png" alt="Strahlenschutz-Tabletten" width="24" height="24" style="vertical-align: middle;" /> 5 x Strahlenschutz-Tabletten
+- <img src="https://cdn.carbonmod.gg/items/glue.png" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 1 x Zucker
+- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -54,7 +54,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Drug Heal
 
-![Drug Heal](https://images.steamusercontent.com/ugc/1852664636030364618/9D0F6AE34980850C4A5E5F1F594476FAD90BAA1B/)
+<img src="https://images.steamusercontent.com/ugc/1852664636030364618/9D0F6AE34980850C4A5E5F1F594476FAD90BAA1B/" alt="Drug Heal" width="64" height="64" />
 
 > Heilende Designer-Droge mit regenerativen Eigenschaften – beschleunigt Wundheilung, aber mit Nebenwirkungen
 
@@ -72,8 +72,8 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 **Rezept:**
 
-- 1 x Base Drug
-- 1 x healingtea
+- <img src="https://images.steamusercontent.com/ugc/1852664636035739231/E2E56FA75BE1ADBE9FCF29867027050289CBC251/" alt="Base Drug" width="24" height="24" style="vertical-align: middle;" /> 1 x Base Drug
+- <img src="https://cdn.carbonmod.gg/items/healingtea.png" alt="healingtea" width="24" height="24" style="vertical-align: middle;" /> 1 x healingtea
 
 **Stoffwechsel-Effekte:**
 
@@ -91,7 +91,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Drug Max Health
 
-![Drug Max Health](https://images.steamusercontent.com/ugc/1852664636030369022/E7E4996B1635A340373BD020BB94CF8B83E5C41C/)
+<img src="https://images.steamusercontent.com/ugc/1852664636030369022/E7E4996B1635A340373BD020BB94CF8B83E5C41C/" alt="Drug Max Health" width="64" height="64" />
 
 > Performance-steigernde Droge, die das maximale Gesundheitslevel temporär erhöht – riskante Leistungssteigerung
 
@@ -109,8 +109,8 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 **Rezept:**
 
-- 1 x Base Drug
-- 1 x maxhealthtea
+- <img src="https://images.steamusercontent.com/ugc/1852664636035739231/E2E56FA75BE1ADBE9FCF29867027050289CBC251/" alt="Base Drug" width="24" height="24" style="vertical-align: middle;" /> 1 x Base Drug
+- <img src="https://cdn.carbonmod.gg/items/maxhealthtea.png" alt="maxhealthtea" width="24" height="24" style="vertical-align: middle;" /> 1 x maxhealthtea
 
 **Stoffwechsel-Effekte:**
 
@@ -131,7 +131,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Drug Ore
 
-![Drug Ore](https://images.steamusercontent.com/ugc/1852664636030370404/5724F4F874BFA61BBACB97B276F8DA7448C66489/)
+<img src="https://images.steamusercontent.com/ugc/1852664636030370404/5724F4F874BFA61BBACB97B276F8DA7448C66489/" alt="Drug Ore" width="64" height="64" />
 
 > Stimulierende Droge für Bergarbeiter – erhöht Erzausbeute, aber mit halluzinogenen Nebenwirkungen
 
@@ -149,8 +149,8 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 **Rezept:**
 
-- 1 x Base Drug
-- 1 x oretea
+- <img src="https://images.steamusercontent.com/ugc/1852664636035739231/E2E56FA75BE1ADBE9FCF29867027050289CBC251/" alt="Base Drug" width="24" height="24" style="vertical-align: middle;" /> 1 x Base Drug
+- <img src="https://cdn.carbonmod.gg/items/oretea.png" alt="oretea" width="24" height="24" style="vertical-align: middle;" /> 1 x oretea
 
 **Stoffwechsel-Effekte:**
 
@@ -171,7 +171,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Drug Scrap
 
-![Drug Scrap](https://images.steamusercontent.com/ugc/1852664636030372131/B49C0F6D6B976BED8AD56384980DF2FB9AA397F6/)
+<img src="https://images.steamusercontent.com/ugc/1852664636030372131/B49C0F6D6B976BED8AD56384980DF2FB9AA397F6/" alt="Drug Scrap" width="64" height="64" />
 
 > Scavenger-Droge für Müllsammler – verbessert Schrottausbeute erheblich, sorgt aber für Wahrnehmungsstörungen
 
@@ -189,8 +189,8 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 **Rezept:**
 
-- 1 x Base Drug
-- 1 x scraptea
+- <img src="https://images.steamusercontent.com/ugc/1852664636035739231/E2E56FA75BE1ADBE9FCF29867027050289CBC251/" alt="Base Drug" width="24" height="24" style="vertical-align: middle;" /> 1 x Base Drug
+- <img src="https://cdn.carbonmod.gg/items/scraptea.png" alt="scraptea" width="24" height="24" style="vertical-align: middle;" /> 1 x scraptea
 
 **Stoffwechsel-Effekte:**
 
@@ -211,7 +211,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Drug Wood
 
-![Drug Wood](https://images.steamusercontent.com/ugc/1852664636030373263/0708C9FFE250F8CE423932A504D38CF75898E20A/)
+<img src="https://images.steamusercontent.com/ugc/1852664636030373263/0708C9FFE250F8CE423932A504D38CF75898E20A/" alt="Drug Wood" width="64" height="64" />
 
 > Aufputschmittel für Holzfäller – steigert Holzertrag massiv, verursacht aber Zittern und Sehstörungen
 
@@ -229,8 +229,8 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 **Rezept:**
 
-- 1 x Base Drug
-- 1 x woodtea
+- <img src="https://images.steamusercontent.com/ugc/1852664636035739231/E2E56FA75BE1ADBE9FCF29867027050289CBC251/" alt="Base Drug" width="24" height="24" style="vertical-align: middle;" /> 1 x Base Drug
+- <img src="https://cdn.carbonmod.gg/items/woodtea.png" alt="woodtea" width="24" height="24" style="vertical-align: middle;" /> 1 x woodtea
 
 **Stoffwechsel-Effekte:**
 
@@ -251,7 +251,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Joint - Illegal
 
-![Joint - Illegal](https://images.steamusercontent.com/ugc/1852667385212822455/D5EF3468E0DDB60117D78E9C46A7A1E354659BBC/)
+<img src="https://images.steamusercontent.com/ugc/1852667385212822455/D5EF3468E0DDB60117D78E9C46A7A1E354659BBC/" alt="Joint - Illegal" width="64" height="64" />
 
 > Ein gedrehter Joint aus Marihuana und Tabak – illegale Droge mit entspannender Wirkung und charakteristischem Geruch
 
@@ -268,9 +268,9 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 **Rezept:**
 
-- 1 x Marihuana
-- 1 x Papier
-- 1 x Tabak
+- <img src="https://images.steamusercontent.com/ugc/1726542379818263452/E9DF898729A2B988A33432831C64D14412E32555/" alt="Marihuana" width="24" height="24" style="vertical-align: middle;" /> 1 x Marihuana
+- <img src="https://cdn.carbonmod.gg/items/paper.png" alt="Papier" width="24" height="24" style="vertical-align: middle;" /> 1 x Papier
+- <img src="https://images.steamusercontent.com/ugc/1847046302368098487/BFA815024EC9FBFD6C4218FB4169A5FFD89CADB6/" alt="Tabak" width="24" height="24" style="vertical-align: middle;" /> 1 x Tabak
 
 **Stoffwechsel-Effekte:**
 
@@ -300,7 +300,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Trockenpilz - Illegal
 
-![Trockenpilz - Illegal](https://images.steamusercontent.com/ugc/1852667385212824743/D29564672FA1676C6D14200A258A3E2EEA04F418/)
+<img src="https://images.steamusercontent.com/ugc/1852667385212824743/D29564672FA1676C6D14200A258A3E2EEA04F418/" alt="Trockenpilz - Illegal" width="64" height="64" />
 
 > Getrocknete psychoaktive Pilze – illegales Rauschmittel mit halluzinogener Wirkung und starken visuellen Effekten
 
@@ -318,10 +318,10 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 **Rezept:**
 
-- 2 x Pilz
-- 1 x Schwefel
-- 1 x Knochenfragmente
-- 1 x Stoff
+- <img src="https://cdn.carbonmod.gg/items/mushroom.png" alt="Pilz" width="24" height="24" style="vertical-align: middle;" /> 2 x Pilz
+- <img src="https://cdn.carbonmod.gg/items/sulfur.png" alt="Schwefel" width="24" height="24" style="vertical-align: middle;" /> 1 x Schwefel
+- <img src="https://cdn.carbonmod.gg/items/bone.fragments.png" alt="Knochenfragmente" width="24" height="24" style="vertical-align: middle;" /> 1 x Knochenfragmente
+- <img src="https://cdn.carbonmod.gg/items/cloth.png" alt="Stoff" width="24" height="24" style="vertical-align: middle;" /> 1 x Stoff
 
 **Stoffwechsel-Effekte:**
 
@@ -344,7 +344,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Marihuana
 
-![Marihuana](https://images.steamusercontent.com/ugc/1726542379818263452/E9DF898729A2B988A33432831C64D14412E32555/)
+<img src="https://images.steamusercontent.com/ugc/1726542379818263452/E9DF898729A2B988A33432831C64D14412E32555/" alt="Marihuana" width="64" height="64" />
 
 > Getrocknete Cannabis-Blüten – illegale Substanz mit beruhigender Wirkung
 
@@ -363,7 +363,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Mohn-Milchsaft
 
-![Mohn-Milchsaft](https://images.steamusercontent.com/ugc/1707413268979404583/2B7BDAE1C9C08B8E82FE178AB4E66BD3341739B0/)
+<img src="https://images.steamusercontent.com/ugc/1707413268979404583/2B7BDAE1C9C08B8E82FE178AB4E66BD3341739B0/" alt="Mohn-Milchsaft" width="64" height="64" />
 
 > Milchiger Pflanzensaft aus Schlafmohn – Rohstoff für starke Schmerzmittel und illegale Opiate
 
@@ -382,7 +382,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Schwefelsäure
 
-![Schwefelsäure](https://images.steamusercontent.com/ugc/1852664636035813336/E25D34D1371034FDFA563AB66EA05CBF78DC7F3C/)
+<img src="https://images.steamusercontent.com/ugc/1852664636035813336/E25D34D1371034FDFA563AB66EA05CBF78DC7F3C/" alt="Schwefelsäure" width="64" height="64" />
 
 > Hochkonzentrierte ätzende Säure – gefährliche Chemikalie für illegale Drogenherstellung
 
@@ -391,7 +391,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Tabak
 
-![Tabak](https://images.steamusercontent.com/ugc/1847046302368098487/BFA815024EC9FBFD6C4218FB4169A5FFD89CADB6/)
+<img src="https://images.steamusercontent.com/ugc/1847046302368098487/BFA815024EC9FBFD6C4218FB4169A5FFD89CADB6/" alt="Tabak" width="64" height="64" />
 
 > Getrocknete Tabakblätter zum Drehen von Zigaretten – legal aber süchtig machend
 
@@ -410,7 +410,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Unbekanntes Mineral
 
-![Unbekanntes Mineral](https://images.steamusercontent.com/ugc/956349495967513628/60D8A981CF1DF11CE16CC587A21EF0AFB11F54D2/)
+<img src="https://images.steamusercontent.com/ugc/956349495967513628/60D8A981CF1DF11CE16CC587A21EF0AFB11F54D2/" alt="Unbekanntes Mineral" width="64" height="64" />
 
 > Mysteriöse kristalline Substanz aus Schwefelerz – chemischer Rohstoff für zwielichtige Experimente
 
