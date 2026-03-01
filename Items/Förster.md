@@ -2,7 +2,7 @@
 title: Förster
 description: 
 published: true
-date: 2026-03-01T21:34:41.922Z
+date: 2026-03-01T21:34:44.361Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:16:52.071Z
