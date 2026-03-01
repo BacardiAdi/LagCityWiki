@@ -2,43 +2,38 @@
 title: Kleidung
 description: 
 published: true
-date: 2026-03-01T21:35:05.006Z
+date: 2026-03-01T21:36:54.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:17:15.616Z
 ---
 
 # Items - Kategorie: Kleidung
-
-*Generiert am 21.12.2025 15:48:06*
-
-## Inhaltsverzeichnis
-
-### Kleidung
-
--   [Großer Rucksack](#item-1255) ✓ Herstellbar
-
----
+*Generiert am 01.03.2026 22:36:53*
 
 ## Kleidung
 
 ### Großer Rucksack
 
-![Großer Rucksack](https://cdn.carbonmod.gg/items/largebackpack.png)
+<img src="https://cdn.carbonmod.gg/items/largebackpack.png" alt="Großer Rucksack" width="64" height="64" />
 
-Geräumiger Rucksack mit viel Stauraum – perfekt für lange Touren und große Beute
+> Geräumiger Rucksack mit viel Stauraum – perfekt für lange Touren und große Beute
 
-**Shortname:** largebackpack  
-**Status:** Herstellbar  
+**Shortname:** `largebackpack`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.attire  
-Werkbank-Level: 2  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-500 x cloth  
-10 x metal.refined  
-5 x sewingkit  
+- Berechtigung: `attire`
+- Werkbank-Level: 2
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/cloth.png" alt="Stoff" width="24" height="24" style="vertical-align: middle;" /> 500 x Stoff
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 10 x Hochwertiges Metall
+- <img src="https://cdn.carbonmod.gg/items/sewingkit.png" alt="Nähzeug Set" width="24" height="24" style="vertical-align: middle;" /> 5 x Nähzeug Set
 
 ---
+
