@@ -2,7 +2,7 @@
 title: Essen
 description: 
 published: true
-date: 2026-03-01T21:32:21.357Z
+date: 2026-03-01T21:32:24.472Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:15:48.363Z
