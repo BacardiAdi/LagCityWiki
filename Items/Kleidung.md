@@ -2,7 +2,7 @@
 title: Kleidung
 description: 
 published: true
-date: 2026-03-01T21:35:02.741Z
+date: 2026-03-01T21:35:05.006Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:17:15.616Z
