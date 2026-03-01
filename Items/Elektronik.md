@@ -2,7 +2,7 @@
 title: Elektronik
 description: 
 published: true
-date: 2026-03-01T21:32:00.228Z
+date: 2026-03-01T21:32:04.069Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:14:42.536Z
