@@ -2,7 +2,7 @@
 title: Medizin
 description: 
 published: true
-date: 2026-03-01T21:35:23.583Z
+date: 2026-03-01T21:35:25.461Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:17:32.986Z
