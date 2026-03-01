@@ -2,10 +2,169 @@
 title: Förster
 description: 
 published: true
-date: 2026-03-01T21:34:44.361Z
+date: 2026-03-01T21:34:51.533Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:16:52.071Z
 ---
 
-\# Items - Kategorie: Förster \*Generiert am 01.03.2026 22:34:22\* ## Förster ### Barricade A ![Barricade A](https://images.steamusercontent.com/ugc/2419089067615120711/59EB51E61EDDA9DEBBCBA672C8DA677CD722B359/) > Einfache Holzbarrikade zur Absperrung von Bereichen – praktisch für Forstarbeiten \*\*Shortname:\*\* \`box.wooden\` \*\*Skin-ID:\*\* \`3358400124\` \*\*Status:\*\* Herstellbar \*\*Herstellung:\*\* - Berechtigung: \`forstarbeiter\` - Werkbank-Level: 1 - Herstellungsmenge: 1 - Herstellungsdauer: 1s \*\*Rezept:\*\* - ![Holz](https://cdn.carbonmod.gg/items/wood.png) 1000 x Holz ### Barricade A large ![Barricade A large](https://images.steamusercontent.com/ugc/2419089067615121100/32F64483359134A3C94DD97F313B058749C233B9/) > Große Holzbarrikade mit Metallverstärkung – für weitläufige Absperrungen \*\*Shortname:\*\* \`box.wooden\` \*\*Skin-ID:\*\* \`3358400278\` \*\*Status:\*\* Herstellbar \*\*Herstellung:\*\* - Berechtigung: \`forstarbeiter\` - Werkbank-Level: 1 - Herstellungsmenge: 1 - Herstellungsdauer: 1s \*\*Rezept:\*\* - ![Holz](https://cdn.carbonmod.gg/items/wood.png) 1500 x Holz - ![Metallfragmente](https://cdn.carbonmod.gg/items/metal.fragments.png) 150 x Metallfragmente ### Barricade B ![Barricade B](https://images.steamusercontent.com/ugc/2419089067615121590/F5ED473D17D313F454F1CD4E01B2FA4400FD8B82/) > Alternative Barrikaden-Bauweise mit stärkerer Konstruktion – robust und zuverlässig \*\*Shortname:\*\* \`box.wooden\` \*\*Skin-ID:\*\* \`3358400465\` \*\*Status:\*\* Herstellbar \*\*Herstellung:\*\* - Berechtigung: \`forstarbeiter\` - Werkbank-Level: 1 - Herstellungsmenge: 1 - Herstellungsdauer: 1s \*\*Rezept:\*\* - ![Holz](https://cdn.carbonmod.gg/items/wood.png) 1000 x Holz - ![Metallfragmente](https://cdn.carbonmod.gg/items/metal.fragments.png) 100 x Metallfragmente ### Barricade dbl A ![Barricade dbl A](https://images.steamusercontent.com/ugc/2419089067615124659/A6715A892832B8DB65DFBE9DAF0227B8B03CED95/) > Doppelte Barrikade Typ A – doppelter Schutz für kritische Bereiche \*\*Shortname:\*\* \`box.wooden\` \*\*Skin-ID:\*\* \`3358401603\` \*\*Status:\*\* Herstellbar \*\*Herstellung:\*\* - Berechtigung: \`forstarbeiter\` - Werkbank-Level: 1 - Herstellungsmenge: 1 - Herstellungsdauer: 1s \*\*Rezept:\*\* - ![Holz](https://cdn.carbonmod.gg/items/wood.png) 1500 x Holz - ![Metallfragmente](https://cdn.carbonmod.gg/items/metal.fragments.png) 150 x Metallfragmente ### Barricade dbl B ![Barricade dbl B](https://images.steamusercontent.com/ugc/2419089067615125151/9599F1FE78411FD852953F22AA5C29A7C60B6DA2/) > Doppelte Barrikade Typ B – verstärkte Ausführung für maximale Absicherung \*\*Shortname:\*\* \`box.wooden\` \*\*Skin-ID:\*\* \`3358401834\` \*\*Status:\*\* Herstellbar \*\*Herstellung:\*\* - Berechtigung: \`forstarbeiter\` - Werkbank-Level: 1 - Herstellungsmenge: 1 - Herstellungsdauer: 1s \*\*Rezept:\*\* - ![Holz](https://cdn.carbonmod.gg/items/wood.png) 1500 x Holz - ![Metallfragmente](https://cdn.carbonmod.gg/items/metal.fragments.png) 150 x Metallfragmente ### Barricade dbl B large ![Barricade dbl B large](https://images.steamusercontent.com/ugc/2419089067615125650/E8367C0ED094E469509CD620085C7C991C6FF5E7/) > Große doppelte Barrikade Typ B – die ultimative Lösung für weitläufige Sperrgebiete \*\*Shortname:\*\* \`box.wooden\` \*\*Skin-ID:\*\* \`3358402138\` \*\*Status:\*\* Herstellbar \*\*Herstellung:\*\* - Berechtigung: \`forstarbeiter\` - Werkbank-Level: 1 - Herstellungsmenge: 1 - Herstellungsdauer: 1s \*\*Rezept:\*\* - ![Holz](https://cdn.carbonmod.gg/items/wood.png) 1500 x Holz - ![Metallfragmente](https://cdn.carbonmod.gg/items/metal.fragments.png) 150 x Metallfragmente ### Friedhofszaun ![Friedhofszaun](https://cdn.carbonmod.gg/items/wall.graveyard.fence.png) > Dekorativer Metallzaun im Friedhofsstil – elegant und solide \*\*Shortname:\*\* \`wall.graveyard.fence\` \*\*Status:\*\* Herstellbar \*\*Herstellung:\*\* - Berechtigung: \`forstarbeiter\` - Werkbank-Level: 2 - Herstellungsmenge: 5 - Max. Herstellungsmenge: 10 - Herstellungsdauer: 10s \*\*Rezept:\*\* - ![Steine](https://cdn.carbonmod.gg/items/stones.png) 1250 x Steine - ![Metallfragmente](https://cdn.carbonmod.gg/items/metal.fragments.png) 300 x Metallfragmente ---
+# Items - Kategorie: Förster
+*Generiert am 01.03.2026 22:34:50*
+
+## Förster
+
+### Barricade A
+
+<img src="https://images.steamusercontent.com/ugc/2419089067615120711/59EB51E61EDDA9DEBBCBA672C8DA677CD722B359/" alt="Barricade A" width="64" height="64" />
+
+> Einfache Holzbarrikade zur Absperrung von Bereichen – praktisch für Forstarbeiten
+
+**Shortname:** `box.wooden`
+**Skin-ID:** `3358400124`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `forstarbeiter`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 1000 x Holz
+
+### Barricade A large
+
+<img src="https://images.steamusercontent.com/ugc/2419089067615121100/32F64483359134A3C94DD97F313B058749C233B9/" alt="Barricade A large" width="64" height="64" />
+
+> Große Holzbarrikade mit Metallverstärkung – für weitläufige Absperrungen
+
+**Shortname:** `box.wooden`
+**Skin-ID:** `3358400278`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `forstarbeiter`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 1500 x Holz
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 150 x Metallfragmente
+
+### Barricade B
+
+<img src="https://images.steamusercontent.com/ugc/2419089067615121590/F5ED473D17D313F454F1CD4E01B2FA4400FD8B82/" alt="Barricade B" width="64" height="64" />
+
+> Alternative Barrikaden-Bauweise mit stärkerer Konstruktion – robust und zuverlässig
+
+**Shortname:** `box.wooden`
+**Skin-ID:** `3358400465`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `forstarbeiter`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 1000 x Holz
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallfragmente
+
+### Barricade dbl A
+
+<img src="https://images.steamusercontent.com/ugc/2419089067615124659/A6715A892832B8DB65DFBE9DAF0227B8B03CED95/" alt="Barricade dbl A" width="64" height="64" />
+
+> Doppelte Barrikade Typ A – doppelter Schutz für kritische Bereiche
+
+**Shortname:** `box.wooden`
+**Skin-ID:** `3358401603`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `forstarbeiter`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 1500 x Holz
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 150 x Metallfragmente
+
+### Barricade dbl B
+
+<img src="https://images.steamusercontent.com/ugc/2419089067615125151/9599F1FE78411FD852953F22AA5C29A7C60B6DA2/" alt="Barricade dbl B" width="64" height="64" />
+
+> Doppelte Barrikade Typ B – verstärkte Ausführung für maximale Absicherung
+
+**Shortname:** `box.wooden`
+**Skin-ID:** `3358401834`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `forstarbeiter`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 1500 x Holz
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 150 x Metallfragmente
+
+### Barricade dbl B large
+
+<img src="https://images.steamusercontent.com/ugc/2419089067615125650/E8367C0ED094E469509CD620085C7C991C6FF5E7/" alt="Barricade dbl B large" width="64" height="64" />
+
+> Große doppelte Barrikade Typ B – die ultimative Lösung für weitläufige Sperrgebiete
+
+**Shortname:** `box.wooden`
+**Skin-ID:** `3358402138`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `forstarbeiter`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 1500 x Holz
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 150 x Metallfragmente
+
+### Friedhofszaun
+
+<img src="https://cdn.carbonmod.gg/items/wall.graveyard.fence.png" alt="Friedhofszaun" width="64" height="64" />
+
+> Dekorativer Metallzaun im Friedhofsstil – elegant und solide
+
+**Shortname:** `wall.graveyard.fence`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `forstarbeiter`
+- Werkbank-Level: 2
+- Herstellungsmenge: 5
+- Max. Herstellungsmenge: 10
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/stones.png" alt="Steine" width="24" height="24" style="vertical-align: middle;" /> 1250 x Steine
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 300 x Metallfragmente
+
+---
+
