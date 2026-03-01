@@ -2,7 +2,7 @@
 title: Trinken
 description: 
 published: true
-date: 2026-03-01T21:35:58.918Z
+date: 2026-03-01T21:36:05.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-16T19:17:06.225Z
