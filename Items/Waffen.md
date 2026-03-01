@@ -2,346 +2,389 @@
 title: Waffen
 description: 
 published: true
-date: 2026-03-01T21:36:27.687Z
+date: 2026-03-01T21:37:40.228Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:19:36.345Z
 ---
 
 # Items - Kategorie: Waffen
-
-*Generiert am 21.12.2025 15:48:28*
-
-## Inhaltsverzeichnis
-
-### Waffen
-
--   [16x Zoom Scope](#item-1059) ✓ Herstellbar
--   [Burst Module](#item-21249) ✓ Herstellbar
--   [HMLMG](#item-1061) ✓ Herstellbar
--   [Karabiner Gewehr](#item-1062) ✓ Herstellbar
--   [L96 Rifle](#item-1063) ✓ Herstellbar
--   [LR-300 Assault Rifle](#item-1058) ✓ Herstellbar
--   [M249](#item-1060) ✓ Herstellbar
--   [M39 Rifle](#item-1064) ✓ Herstellbar
--   [M4 Schrotflinte](#item-21231) ✓ Herstellbar
--   [M92 Pistol](#item-1067) ✓ Herstellbar
--   [Multiple Grenade Launcher](#item-1065) ✓ Herstellbar
--   [Prototype 17](#item-21248) ✓ Herstellbar
--   [Schlachtermesser](#item-1068) ✓ Herstellbar
--   [Spas - 12 Shotgun](#item-1066) ✓ Herstellbar
--   [Sturmgewehr](#item-1057) ✓ Herstellbar
-
----
+*Generiert am 01.03.2026 22:37:39*
 
 ## Waffen
 
 ### 16x Zoom Scope
 
-![16x Zoom Scope](https://cdn.carbonmod.gg/items/weapon.mod.8x.scope.png)
+<img src="https://cdn.carbonmod.gg/items/weapon.mod.8x.scope.png" alt="16x Zoom Scope" width="64" height="64" />
 
-Hochleistungs-Zielfernrohr mit 16-facher Vergrößerung – für präzise Fernschüsse
+> Hochleistungs-Zielfernrohr mit 16-facher Vergrößerung – für präzise Fernschüsse
 
-**Shortname:** weapon.mod.8x.scope  
-**Status:** Herstellbar  
+**Shortname:** `weapon.mod.8x.scope`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendler  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-4 x techparts  
-80 x metal.refined  
+- Berechtigung: `waffenhaendler`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/techparts.png" alt="techparts" width="24" height="24" style="vertical-align: middle;" /> 4 x techparts
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 80 x Hochwertiges Metall
 
 ### Burst Module
 
-![Burst Module](https://cdn.carbonmod.gg/items/weapon.mod.burstmodule.png)
+<img src="https://cdn.carbonmod.gg/items/weapon.mod.burstmodule.png" alt="Burst Module" width="64" height="64" />
 
-Waffen-Erweiterung für 3-Schuss-Burst-Modus – verbessert Feuerrate und Kontrolle
+> Waffen-Erweiterung für 3-Schuss-Burst-Modus – verbessert Feuerrate und Kontrolle
 
-**Shortname:** weapon.mod.burstmodule  
-**Status:** Herstellbar  
+**Shortname:** `weapon.mod.burstmodule`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendler  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-1 x metalspring  
-30 x metal.refined  
+- Berechtigung: `waffenhaendler`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 1 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 30 x Hochwertiges Metall
 
 ### HMLMG
 
-![HMLMG](https://cdn.carbonmod.gg/items/hmlmg.png)
+<img src="https://cdn.carbonmod.gg/items/hmlmg.png" alt="HMLMG" width="64" height="64" />
 
-Heaviest Machine Light Machine Gun – brutales Maschinengewehr für intensive Feuergefechte
+> Heaviest Machine Light Machine Gun – brutales Maschinengewehr für intensive Feuergefechte
 
-**Shortname:** hmlmg  
-**Status:** Herstellbar  
+**Shortname:** `hmlmg`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.hmlmg  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-120 x metal.refined  
-4 x riflebody  
-6 x gears  
-6 x metalspring  
-3 x Waffenteile  
+- Berechtigung: `hmlmg`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 120 x Hochwertiges Metall
+- <img src="https://cdn.carbonmod.gg/items/riflebody.png" alt="Gewehrgehäuse" width="24" height="24" style="vertical-align: middle;" /> 4 x Gewehrgehäuse
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 6 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 6 x Metallfeder
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 3 x Waffenteile
 
 ### Karabiner Gewehr
 
-![Karabiner Gewehr](https://cdn.carbonmod.gg/items/rifle.bolt.png)
+<img src="https://cdn.carbonmod.gg/items/rifle.bolt.png" alt="Karabiner Gewehr" width="64" height="64" />
 
-Präzisions-Repetiergewehr für gezielte Einzelschüsse – ein Schuss, ein Treffer
+> Präzisions-Repetiergewehr für gezielte Einzelschüsse – ein Schuss, ein Treffer
 
-**Shortname:** rifle.bolt  
-**Status:** Herstellbar  
+**Shortname:** `rifle.bolt`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.rifle\_bolt  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-40 x metal.refined  
-2 x riflebody  
-6 x metalpipe  
-1 x metalspring  
-1 x Waffenteile  
+- Berechtigung: `rifle_bolt`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 40 x Hochwertiges Metall
+- <img src="https://cdn.carbonmod.gg/items/riflebody.png" alt="Gewehrgehäuse" width="24" height="24" style="vertical-align: middle;" /> 2 x Gewehrgehäuse
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 6 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 1 x Metallfeder
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 1 x Waffenteile
 
 ### L96 Rifle
 
-![L96 Rifle](https://cdn.carbonmod.gg/items/rifle.l96.png)
+<img src="https://cdn.carbonmod.gg/items/rifle.l96.png" alt="L96 Rifle" width="64" height="64" />
 
-Militärisches Scharfschützengewehr mit höchster Präzision – tödlich auf extreme Distanzen
+> Militärisches Scharfschützengewehr mit höchster Präzision – tödlich auf extreme Distanzen
 
-**Shortname:** rifle.l96  
-**Status:** Herstellbar  
+**Shortname:** `rifle.l96`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendlerI7  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-5 x riflebody  
-12 x metalspring  
-10 x gears  
-200 x metal.refined  
-4 x Waffenteile  
-100 x scrap  
+- Berechtigung: `waffenhaendlerI7`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/riflebody.png" alt="Gewehrgehäuse" width="24" height="24" style="vertical-align: middle;" /> 5 x Gewehrgehäuse
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 12 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 10 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 200 x Hochwertiges Metall
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 4 x Waffenteile
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallschrott
 
 ### LR-300 Assault Rifle
 
-![LR-300 Assault Rifle](https://i.imgur.com/mw1T17x.png)
+<img src="https://cdn.carbonmod.gg/items/rifle.lr300.png" alt="LR-300 Assault Rifle" width="64" height="64" />
 
-Präzises Sturmgewehr mit geringem Rückoß – perfekt für kontrollierte Feuergefechte
+> Präzises Sturmgewehr mit geringem Rückoß – perfekt für kontrollierte Feuergefechte
 
-**Shortname:** rifle.lr300  
-**Status:** Herstellbar  
+**Shortname:** `rifle.lr300`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendler7  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-3 x riflebody  
-8 x metalspring  
-60 x metal.refined  
-2 x Waffenteile  
+- Berechtigung: `waffenhaendler7`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/riflebody.png" alt="Gewehrgehäuse" width="24" height="24" style="vertical-align: middle;" /> 3 x Gewehrgehäuse
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 8 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 60 x Hochwertiges Metall
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 2 x Waffenteile
 
 ### M249
 
-![M249](https://cdn.carbonmod.gg/items/lmg.m249.png)
+<img src="https://cdn.carbonmod.gg/items/lmg.m249.png" alt="M249" width="64" height="64" />
 
-Schweres Maschinengewehr mit großem Magazin – legt verheerende Dauerfeuer-Salven
+> Schweres Maschinengewehr mit großem Magazin – legt verheerende Dauerfeuer-Salven
 
-**Shortname:** lmg.m249  
-**Status:** Herstellbar  
+**Shortname:** `lmg.m249`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendlerI7  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-160 x metal.refined  
-6 x riflebody  
-8 x gears  
-10 x metalspring  
-4 x Waffenteile  
-100 x scrap  
+- Berechtigung: `waffenhaendlerI7`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 160 x Hochwertiges Metall
+- <img src="https://cdn.carbonmod.gg/items/riflebody.png" alt="Gewehrgehäuse" width="24" height="24" style="vertical-align: middle;" /> 6 x Gewehrgehäuse
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 8 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 10 x Metallfeder
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 4 x Waffenteile
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallschrott
 
 ### M39 Rifle
 
-![M39 Rifle](https://cdn.carbonmod.gg/items/rifle.m39.png)
+<img src="https://cdn.carbonmod.gg/items/rifle.m39.png" alt="M39 Rifle" width="64" height="64" />
 
-Halbautomatisches Präzisionsgewehr – balanciert zwischen Feuerrate und Genauigkeit
+> Halbautomatisches Präzisionsgewehr – balanciert zwischen Feuerrate und Genauigkeit
 
-**Shortname:** rifle.m39  
-**Status:** Herstellbar  
+**Shortname:** `rifle.m39`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendler7  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-2 x riflebody  
-6 x metalspring  
-2 x gears  
-30 x metal.refined  
-2 x Waffenteile  
+- Berechtigung: `waffenhaendler7`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/riflebody.png" alt="Gewehrgehäuse" width="24" height="24" style="vertical-align: middle;" /> 2 x Gewehrgehäuse
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 6 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 2 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 30 x Hochwertiges Metall
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 2 x Waffenteile
 
 ### M4 Schrotflinte
 
-![M4 Schrotflinte](https://cdn.carbonmod.gg/items/shotgun.m4.png)
+<img src="https://cdn.carbonmod.gg/items/shotgun.m4.png" alt="M4 Schrotflinte" width="64" height="64" />
 
-Moderne taktische Schrotflinte im M4-Stil – kompakt und effektiv im Nahkampf
+> Moderne taktische Schrotflinte im M4-Stil – kompakt und effektiv im Nahkampf
 
-**Shortname:** shotgun.m4  
-**Status:** Herstellbar  
+**Shortname:** `shotgun.m4`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendlerI7  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-5 x metalpipe  
-5 x metalspring  
-2 x gears  
-50 x metal.refined  
-1 x Waffenteile  
+- Berechtigung: `waffenhaendlerI7`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 5 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 5 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 2 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 50 x Hochwertiges Metall
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 1 x Waffenteile
 
 ### M92 Pistol
 
-![M92 Pistol](https://cdn.carbonmod.gg/items/pistol.m92.png)
+<img src="https://cdn.carbonmod.gg/items/pistol.m92.png" alt="M92 Pistol" width="64" height="64" />
 
-Halbautomatische Pistole mit 15-Schuss-Magazin – zuverlässige Seitenwaffe
+> Halbautomatische Pistole mit 15-Schuss-Magazin – zuverlässige Seitenwaffe
 
-**Shortname:** pistol.m92  
-**Status:** Herstellbar  
+**Shortname:** `pistol.m92`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendler5  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-1 x metalpipe  
-2 x metalspring  
-1 x gears  
-30 x metal.refined  
-2 x semibody  
+- Berechtigung: `waffenhaendler5`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 30s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 1 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 2 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 1 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 30 x Hochwertiges Metall
+- <img src="https://cdn.carbonmod.gg/items/semibody.png" alt="Halbautomatisches Gehäuse" width="24" height="24" style="vertical-align: middle;" /> 2 x Halbautomatisches Gehäuse
 
 ### Multiple Grenade Launcher
 
-![Multiple Grenade Launcher](https://cdn.carbonmod.gg/items/multiplegrenadelauncher.png)
+<img src="https://cdn.carbonmod.gg/items/multiplegrenadelauncher.png" alt="Multiple Grenade Launcher" width="64" height="64" />
 
-Mehrfach-Granatwerfer für explosive Flächenangriffe – Chaos in Serienproduktion
+> Mehrfach-Granatwerfer für explosive Flächenangriffe – Chaos in Serienproduktion
 
-**Shortname:** multiplegrenadelauncher  
-**Status:** Herstellbar  
+**Shortname:** `multiplegrenadelauncher`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendlerEXP  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-4 x metalpipe  
-5 x metalspring  
-5 x gears  
-100 x metal.refined  
-3 x Waffenteile  
+- Berechtigung: `waffenhaendlerEXP`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 4 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 5 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 5 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 100 x Hochwertiges Metall
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 3 x Waffenteile
 
 ### Prototype 17
 
-![Prototype 17](https://cdn.carbonmod.gg/items/pistol.prototype17.png)
+<img src="https://cdn.carbonmod.gg/items/pistol.prototype17.png" alt="Prototype 17" width="64" height="64" />
 
-Experimentelle Hightech-Pistole mit Burst-Modul – präzise 3-Schuss-Salven
+> Experimentelle Hightech-Pistole mit Burst-Modul – präzise 3-Schuss-Salven
 
-**Shortname:** pistol.prototype17  
-**Status:** Herstellbar  
+**Shortname:** `pistol.prototype17`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendler5  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-1 x metalpipe  
-2 x metalspring  
-30 x metal.refined  
-2 x semibody  
-1 x weapon.mod.burstmodule  
+- Berechtigung: `waffenhaendler5`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 1 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 2 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 30 x Hochwertiges Metall
+- <img src="https://cdn.carbonmod.gg/items/semibody.png" alt="Halbautomatisches Gehäuse" width="24" height="24" style="vertical-align: middle;" /> 2 x Halbautomatisches Gehäuse
+- <img src="https://cdn.carbonmod.gg/items/weapon.mod.burstmodule.png" alt="Feuerstoß-Modul" width="24" height="24" style="vertical-align: middle;" /> 1 x Feuerstoß-Modul
+
+### Schalldämpfer
+
+<img src="https://cdn.carbonmod.gg/items/weapon.mod.silencer.png" alt="Schalldämpfer" width="64" height="64" />
+
+> Militärischer Schalldämpfer – reduziert Schussgeräusche und Mündungsfeuer für diskrete Einsätze
+
+**Shortname:** `weapon.mod.silencer`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `waffenhaendler`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 1s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 30 x Hochwertiges Metall
 
 ### Schlachtermesser
 
-![Schlachtermesser](https://cdn.carbonmod.gg/items/knife.butcher.png)
+<img src="https://cdn.carbonmod.gg/items/knife.butcher.png" alt="Schlachtermesser" width="64" height="64" />
 
-Schweres Kampfmesser mit breiter Klinge – sehr effektiv zum Schlachten
+> Schweres Kampfmesser mit breiter Klinge – sehr effektiv zum Schlachten
 
-**Shortname:** knife.butcher  
-**Status:** Herstellbar  
+**Shortname:** `knife.butcher`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendler  
-Werkbank-Level: 2  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-1 x knife.combat  
-10 x cloth  
-15 x metal.refined  
+- Berechtigung: `waffenhaendler`
+- Werkbank-Level: 2
+- Herstellungsmenge: 1
+- Herstellungsdauer: 15s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/knife.combat.png" alt="Kampfmesser" width="24" height="24" style="vertical-align: middle;" /> 1 x Kampfmesser
+- <img src="https://cdn.carbonmod.gg/items/cloth.png" alt="Stoff" width="24" height="24" style="vertical-align: middle;" /> 10 x Stoff
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 15 x Hochwertiges Metall
 
 ### Spas - 12 Shotgun
 
-![Spas - 12 Shotgun](https://cdn.carbonmod.gg/items/shotgun.spas12.png)
+<img src="https://cdn.carbonmod.gg/items/shotgun.spas12.png" alt="Spas - 12 Shotgun" width="64" height="64" />
 
-Halbautomatische Kampfflinte mit vernichtender Nahkampf-Power – räumt alles weg
+> Halbautomatische Kampfflinte mit vernichtender Nahkampf-Power – räumt alles weg
 
-**Shortname:** shotgun.spas12  
-**Status:** Herstellbar  
+**Shortname:** `shotgun.spas12`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.waffenhaendlerI7  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-5 x metalpipe  
-5 x metalspring  
-2 x gears  
-40 x metal.refined  
-1 x Waffenteile  
+- Berechtigung: `waffenhaendlerI7`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 5 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 5 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 2 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 40 x Hochwertiges Metall
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 1 x Waffenteile
 
 ### Sturmgewehr
 
-![Sturmgewehr](https://cdn.carbonmod.gg/items/rifle.ak.png)
+<img src="https://cdn.carbonmod.gg/items/rifle.ak.png" alt="Sturmgewehr" width="64" height="64" />
 
-Zuverlässiges vollautomatisches Sturmgewehr mit hoher Feuerrate – Standardwaffe für den Nahkampf
+> Zuverlässiges vollautomatisches Sturmgewehr mit hoher Feuerrate – Standardwaffe für den Nahkampf
 
-**Shortname:** rifle.ak  
-**Status:** Herstellbar  
+**Shortname:** `rifle.ak`
+**Status:** Herstellbar
 
-**Herstellung:**  
-Berechtigung: crafts.rifle\_ak  
-Werkbank-Level: 3  
-Herstellungsmenge: 1
+**Herstellung:**
 
-**Rezept:**  
-80 x metal.refined  
-400 x wood  
-2 x riflebody  
-8 x metalspring  
-2 x Waffenteile  
+- Berechtigung: `rifle_ak`
+- Werkbank-Level: 3
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 80 x Hochwertiges Metall
+- <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 400 x Holz
+- <img src="https://cdn.carbonmod.gg/items/riflebody.png" alt="Gewehrgehäuse" width="24" height="24" style="vertical-align: middle;" /> 2 x Gewehrgehäuse
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 8 x Metallfeder
+- <img src="https://images.steamusercontent.com/ugc/776235452428487375/A5D880891CFD848600B403D46B57DCFAEAFC6358/" alt="Waffenteile" width="24" height="24" style="vertical-align: middle;" /> 2 x Waffenteile
 
 ---
+
