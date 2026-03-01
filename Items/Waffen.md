@@ -2,7 +2,7 @@
 title: Waffen
 description: 
 published: true
-date: 2026-03-01T21:36:25.355Z
+date: 2026-03-01T21:36:27.687Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:19:36.345Z
