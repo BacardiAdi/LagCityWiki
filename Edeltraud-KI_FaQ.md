@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: FAQ
 published: true
-date: 2026-03-02T12:33:27.239Z
+date: 2026-03-02T12:33:52.658Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -12,7 +12,6 @@ _
 
 ---
 
----
 ## Frage
 Wann ist Server Restart ?
 
