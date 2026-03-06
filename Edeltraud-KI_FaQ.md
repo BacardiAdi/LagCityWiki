@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: FAQ
 published: true
-date: 2026-03-06T09:39:36.614Z
+date: 2026-03-06T09:59:33.997Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -32,4 +32,4 @@ kann man auf dem server einfach connecten ohne whitelist
 https://lagcity.p-o-t.net/de/Serverinfo
 
 ## Schlagwörter
-LagCity | Serverinfo | Server beitreten | verbinden | connecten | connect | Whitelist | ohne Whitelist | Zugang | IP-Adresse | Anleitung | Minecraft-Server
+LagCity | Serverinfo | Server beitreten | verbinden | connecten | connect | Whitelist | ohne Whitelist | Zugang | IP-Adresse | Anleitung
