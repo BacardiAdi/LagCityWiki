@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: FAQ
 published: true
-date: 2026-03-08T12:34:00.938Z
+date: 2026-03-08T17:18:12.947Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -46,3 +46,13 @@ Wie gründet man eine Gang?
 
 ## Schlagwörter
 Gang gründen | Gang-System | /gang | /gang inv | Anführer | Mitglieder | Einladung | Einladungs-Limit (8) | Verbrechen-Regel | Kurzbeschreibung | Admins | Gründungs-Regeln
+
+---
+## Frage
+Kann ich außer bei Konfuzius noch irgendwo meine aktuelle Anzahl an Skillpunkten einsehen ?
+
+## Antwort
+Ja. Gib im Spiel-Chat den Befehl /myskills ein. Damit bekommst du eine Übersicht deiner aktuellen Skillpunkte, eine Liste der bereits gelernten Skills und ein Log/Verlauf zu deinen Skill-Änderungen.
+
+## Schlagwörter
+Skillpunkte | Fähigkeitspunkte | SP | /myskills | Skills | gelernte Skills | Skill-Übersicht | Log | Verlauf | Konfuzius | Befehl | Chat-Befehl | Talente | Fertigkeiten
