@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: FAQ
 published: true
-date: 2026-03-08T17:18:12.947Z
+date: 2026-03-08T19:46:43.085Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -56,3 +56,19 @@ Ja. Gib im Spiel-Chat den Befehl /myskills ein. Damit bekommst du eine Übersich
 
 ## Schlagwörter
 Skillpunkte | Fähigkeitspunkte | SP | /myskills | Skills | gelernte Skills | Skill-Übersicht | Log | Verlauf | Konfuzius | Befehl | Chat-Befehl | Talente | Fertigkeiten
+
+---
+## Frage
+Kann ich das Aussehen des Fahrzeugschlüssels ändern
+
+## Antwort
+Ja. Das Aussehen eines Fahrzeugschlüssels lässt sich ändern. Vorgehen:
+
+- Halte den Schlüssel in der Hand.
+- Gib den Befehl /ck ein, um ein anderes Design auszuwählen.
+- Alternativ kannst du direkt ein Design per Nummer wählen, z. B. /ck 2 (ersetzt "2" durch die gewünschte Design‑Nummer).
+
+Wichtig: Der Schlüssel muss in der Hand gehalten werden, damit der Befehl funktioniert.
+
+## Schlagwörter
+Fahrzeugschlüssel | Autoschlüssel | Schlüsseldesign | Aussehen ändern | Skin | Design | /ck | /ck Nr | Befehl | Kommando | halten | auswählen | Inventar
