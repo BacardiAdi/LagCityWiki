@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: FAQ
 published: true
-date: 2026-03-17T10:02:03.845Z
+date: 2026-03-17T20:56:50.003Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -83,3 +83,16 @@ Kann man jetzt Netze unter Wasser anbringen ? Das gehört doch zum Wasserfundame
 
 ## Schlagwörter
 Unterwassernetz | Wasserfundamente | Water Bases | Schrotthändler | Herstellen | Skill | Fähigkeit | Berufspunkt | deaktiviert | Balancing | Unterwasserbau | Montage | Plugin | Bauen
+
+---
+## Frage
+Ich möchte ein Garagentor horizontal einbauen, welcher Befehl ist dazu notwendig?
+
+## Antwort
+- Auf den Bodenrahmen schauen.
+- Das Garagentor in der Hand halten.
+- Mit der linken Maustaste platzieren.
+- Hinweis: Das Einsetzen kann etwas knifflig sein; ruhig ausrichten und bei Bedarf erneut versuchen.
+
+## Schlagwörter
+Garagentor | horizontal einbauen | Bodenrahmen | platzieren | linke Maustaste | Tor in der Hand | ausrichten | Einbau | Einsetzen | knifflig | Fehlplatzierung
