@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: FAQ
 published: true
-date: 2026-03-08T19:46:43.085Z
+date: 2026-03-17T10:02:03.845Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -72,3 +72,14 @@ Wichtig: Der Schlüssel muss in der Hand gehalten werden, damit der Befehl funkt
 
 ## Schlagwörter
 Fahrzeugschlüssel | Autoschlüssel | Schlüsseldesign | Aussehen ändern | Skin | Design | /ck | /ck Nr | Befehl | Kommando | halten | auswählen | Inventar
+
+---
+## Frage
+Kann man jetzt Netze unter Wasser anbringen ? Das gehört doch zum Wasserfundamente Pluggin dazu oder ?
+
+## Antwort
+- Die Möglichkeit, Netze an Wasserfundamenten unter Wasser zu montieren, wurde bei uns aus Balancing-Gründen deaktiviert. Zuständiges Plugin: Water Bases.
+- Wasserfundamente selbst können weiterhin hergestellt werden — beim Schrotthändler (Scrapper) mit dem passenden Skill/Fähigkeit.
+
+## Schlagwörter
+Unterwassernetz | Wasserfundamente | Water Bases | Schrotthändler | Herstellen | Skill | Fähigkeit | Berufspunkt | deaktiviert | Balancing | Unterwasserbau | Montage | Plugin | Bauen
