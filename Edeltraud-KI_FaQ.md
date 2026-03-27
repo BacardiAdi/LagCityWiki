@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: FAQ
 published: true
-date: 2026-03-17T20:56:50.003Z
+date: 2026-03-27T19:45:41.478Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -96,3 +96,28 @@ Ich möchte ein Garagentor horizontal einbauen, welcher Befehl ist dazu notwendi
 
 ## Schlagwörter
 Garagentor | horizontal einbauen | Bodenrahmen | platzieren | linke Maustaste | Tor in der Hand | ausrichten | Einbau | Einsetzen | knifflig | Fehlplatzierung
+
+---
+## Frage
+welche waffen sind ilegal
+
+## Antwort
+Laut RP-Gesetzbuch sind folgende Waffen und Sprengmittel illegal:
+
+- Minigun  
+- Flammenwerfer  
+- SPAS-12 (Spas-12)  
+- HMLMG  
+- M249  
+- L96  
+- M4-Schrotflinte  
+- Raketenwerfer (auch zielsuchende Raketenwerfer)  
+- Granatwerfer  
+- Sprengladungen aller Art  
+- Granaten aller Art (inkl. Bohnendose-Granate)  
+- Minen
+
+Diese Gegenstände sind verboten und werden von der Polizei konfisziert und vernichtet.
+
+## Schlagwörter
+Minigun | Flammenwerfer | SPAS-12 | HMLMG | M249 | L96 | M4-Schrotflinte | Raketenwerfer | zielsuchender Raketenwerfer | Granatwerfer | Granaten | Bohnendose-Granate | Sprengladungen | Minen
