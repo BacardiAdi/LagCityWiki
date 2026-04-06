@@ -2,7 +2,7 @@
 title: 5. Regeln
 description: 
 published: true
-date: 2026-04-06T15:45:12.943Z
+date: 2026-04-06T15:54:13.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T10:17:13.330Z
@@ -188,7 +188,7 @@ Richtig -Ihr werdet von zwei Personen um euer LAGCityDollar gebracht. Ihr gebt i
 3.  Es ist dabei nicht erlaubt etwas zu zerstören.
 4.  Diebstahl an Offline-Spielern ohne 3 Tage-sleep-protection\*\*.\*\* Das looten von offline Spielern ist in diesem Zuge gestattet. Es dürfen hierbei aber nur Gegenstände im Wert von 1000 LC$ entwendet werden und es muss eine Notiz hinterlassen werden, welche einen brauchbaren Hinweis auf den Dieb liefert.
 
-## 17. Regeln für das Reward-System
+## 17. Reward-System
 
 Das Reward-System ist ein freiwilliges Zusatzangebot. Es besteht kein Anspruch darauf, dass es dauerhaft verfügbar bleibt. Wir behalten uns vor, das System jederzeit anzupassen, zu pausieren oder ganz einzustellen.
 1. Verwarnungen führen zu Punkteabzug.
