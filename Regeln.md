@@ -2,7 +2,7 @@
 title: 5. Regeln
 description: 
 published: true
-date: 2026-04-06T15:36:24.034Z
+date: 2026-04-06T15:41:14.982Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T10:17:13.330Z
@@ -15,8 +15,8 @@ Stand 07.11.2024
 ## **1\. Allgemeines**
 
 1.  Dies ist ein Roleplay Server ab 18 Jahren (Ausnahmen über Support klären).
-2.  Mit dem Ingame Befehl “/auth” und das senden den AuthCode an den Discord Auth-Bot akzeptierst du das Regelwerk.
-3.  Ausnutzen und Suchen von Grauzonen im Regelwerk ist verboten.
+1.  Mit dem Ingame Befehl “/auth” und das senden den AuthCode an den Discord Auth-Bot akzeptierst du das Regelwerk.
+1.  Ausnutzen und Suchen von Grauzonen im Regelwerk ist verboten.
 4.  Das Ausnutzen von In-Game Bugs und das Cheaten und deren Veröffentlichung ist verboten.
 5.  Bugs sind als Naturkatastrophen zu betrachten, d.h. es gibt keinen Anspruch auf Ersatz.
 6.  Wenn Ingame Streitigkeiten herrschen, die nicht im RP zu lösen sind, wendet euch bitte an das Support Team.
@@ -169,7 +169,7 @@ Richtig -Ihr werdet von zwei Personen um euer LAGCityDollar gebracht. Ihr gebt i
      \- darf nicht willkürlich oder sinnlos sein – stimmige Hintergrundgeschichte und nachvollziehbare Motive  
      \- Ziel ist es, das RP zu bereichern – nicht, es zu missbrauchen.
 
-## Schwarzmarkt-Insel
+## 15\. Schwarzmarkt-Insel
 
 1.  Auf der Schwarzmarkt-Insel gelten die üblichen Serverregeln sowie die Gesetze von Lag-City.
 2.  Ziel der Schwarzmarkt-Insel:
@@ -181,9 +181,19 @@ Richtig -Ihr werdet von zwei Personen um euer LAGCityDollar gebracht. Ihr gebt i
 3.  In eine RP Situation ist eine Flucht auf die Schwarzmarkt-Insel untersagt. Es müssen seit der letzten Konfrontation mit einem Spieler mindestens 10 Minuten vergangen sein.
 4.  Verkaufsautomaten sind verboten.
 
-## **15\. Diebstahl-RP**
+## 16. Diebstahl-RP
 
 1.  Das Entwenden von Gegenständen aus Gebäuden oder Fahrzeugen ist erlaubt. Jedoch ist es zwingend erforderlich, eine Nachricht bzw. Mitteilung in irgendeiner Weise zu hinterlassen, die für das Opfer verständlich bzw. relevant ist. Wenn es keine Möglichkeit gibt, eine solche Nachricht zu hinterlassen, muss die Handlung abgebrochen werden. Fehlt nach einem Diebstahl eine solche Nachricht, führt dies zu einer Verwarnung.
 2.  Der Diebstahl sollte verhältnismäßig durchgeführt werden.
 3.  Es ist dabei nicht erlaubt etwas zu zerstören.
 4.  Diebstahl an Offline-Spielern ohne 3 Tage-sleep-protection\*\*.\*\* Das looten von offline Spielern ist in diesem Zuge gestattet. Es dürfen hierbei aber nur Gegenstände im Wert von 1000 LC$ entwendet werden und es muss eine Notiz hinterlassen werden, welche einen brauchbaren Hinweis auf den Dieb liefert.
+
+## 17. Regeln für das Reward-System
+
+Das Reward-System ist ein freiwilliges Zusatzangebot. Es besteht kein Anspruch darauf, dass es dauerhaft verfügbar bleibt. Wir behalten uns vor, das System jederzeit anzupassen, zu pausieren oder ganz einzustellen.
+
+1. Verwarnungen führen zu Punkteabzug.
+1. Bei extrem schlechtem RP oder störendem Verhalten können Punkte abgezogen oder Spieler vom Reward-System ausgeschlossen werden, auch wenn kein direkter Regelverstoß vorliegt.
+1. Missbrauch oder offensichtliches Ausnutzen des Systems kann ebenfalls zum Punkteabzug oder zum Ausschluss führen.
+1. Wer 6 Monate nicht auf dem Server aktiv war, dessen Reward-Punkte werden gelöscht.
+1. Ein Anspruch auf Nachbuchung, Erstattung oder Übertragung von Punkten besteht nicht.
