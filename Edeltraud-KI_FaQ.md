@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: FAQ
 published: true
-date: 2026-03-27T19:45:41.478Z
+date: 2026-04-28T14:35:10.296Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -121,3 +121,19 @@ Diese Gegenstände sind verboten und werden von der Polizei konfisziert und vern
 
 ## Schlagwörter
 Minigun | Flammenwerfer | SPAS-12 | HMLMG | M249 | L96 | M4-Schrotflinte | Raketenwerfer | zielsuchender Raketenwerfer | Granatwerfer | Granaten | Bohnendose-Granate | Sprengladungen | Minen
+
+---
+## Frage
+Warum gehen meine elektrischen Öfen nicht, obwohl alles korrekt angeschlossen ist? Sie gehen kurz an, dann aber direkt wieder aus.
+
+## Antwort
+- Das ist beabsichtigt: Elektrische Öfen sind im Spiel deaktiviert und funktionieren nicht als echte Geräte.  
+- Sie dienen nur als Dekoration (Deko) und können deshalb nicht normal betrieben werden.  
+- Der kurze Anschaltmoment, gefolgt vom sofortigen Abschalten, ist das sichtbare Verhalten dieser Deaktivierung.  
+- In Ausnahmefällen lassen sich Öfen einschalten, wenn sie komplett leer sind — das ist aber kein vollwertiger Betrieb.  
+- Hintergrund: Die Öfen passen nicht in das Spielkonzept in Bezug auf Berufe und Wirtschaft, daher wurden sie deaktiviert, um die Balance und das Design zu wahren.
+
+Kurzfassung: Kein Fehler an deiner Installation — die Funktion ist so geplant. Nutze Öfen als Dekoration oder warte auf mögliche Änderungen durch zukünftige Spielupdates.
+
+## Schlagwörter
+elektrischer Ofen | Elektroherd | Backofen | Herd | deaktiviert | nur Deko | dekorativ | kurz an dann aus | einschaltbar wenn leer | Berufe | Wirtschaft | Spielkonzept | Spielbalance
