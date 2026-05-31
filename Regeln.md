@@ -2,7 +2,7 @@
 title: 5. Regeln
 description: 
 published: true
-date: 2026-04-06T15:54:13.345Z
+date: 2026-05-31T13:25:50.369Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T10:17:13.330Z
@@ -196,3 +196,17 @@ Das Reward-System ist ein freiwilliges Zusatzangebot. Es besteht kein Anspruch d
 1. Missbrauch oder offensichtliches Ausnutzen des Systems kann ebenfalls zum Punkteabzug oder zum Ausschluss führen.
 1. Wer 6 Monate nicht auf dem Server aktiv war, dessen Reward-Punkte werden gelöscht.
 1. Ein Anspruch auf Nachbuchung, Erstattung oder Übertragung von Punkten besteht nicht.
+
+Akutelle Version alle da mit einverstanden ?
+
+## 18. PlaceryGrab / Placement-Tool
+
+**Grundsatz:** PlaceryGrab ist ein Kreativ- und RP-Werkzeug. Es darf nur genutzt werden, um RP, Gestaltung und sinnvolle Dekoration zu fördern, nicht um RP zu verhindern, Regeln zu umgehen oder sich unfaire Vorteile zu verschaffen.
+
+1. Während einer laufenden RP-Situation darf PlaceryGrab nicht eingesetzt werden, wenn dadurch die Situation beeinflusst wird. Verboten ist insbesondere das Verstecken oder Verschieben von Beweisen, das Blockieren oder Öffnen von Zugängen, das Erstellen von Fluchtwegen, das Erzeugen von Deckung oder jede sonstige nachträgliche Veränderung der Situation.
+1. Verstecke und platzierte Gegenstände müssen auffindbar, erreichbar und nachvollziehbar bleiben. Es ist verboten, Gegenstände in Wände, Böden, Terrain, Fahrzeuge oder andere Objekte zu schieben, wenn sie dadurch nicht mehr oder nur unverhältnismäßig schwer gefunden oder benutzt werden können.
+1. Platzierungen müssen grundsätzlich realistisch und physikalisch nachvollziehbar sein. Übertrieben große, kleine, schwebende oder statisch unsinnige Konstruktionen sind verboten, außer es gibt einen triftigen und genehmigten RP-Hintergrund.
+1. Das Tool darf nicht genutzt werden, um Bau-, Stadt-, TC-, Raid-, Polizei- oder andere Serverregeln zu umgehen. Öffentliche Wege, Eingänge, Behörden, Geschäfte, Einsatzwege oder fremde Grundstücke dürfen nicht dauerhaft oder unverhältnismäßig blockiert werden. RP-Aufbauten im öffentlichen Raum sind erlaubt, wenn sie einen nachvollziehbaren RP-Grund haben, zeitlich begrenzt sind und Verkehr, Zugang oder Einsätze nicht komplett oder missbräuchlich verhindern. Beispiel: Baustelle, Absperrung, Marktstand-Deko oder Event-Aufbau.
+1. Das Tool darf nur für eigene oder eindeutig erlaubte Objekte genutzt werden. Manipulationen an fremdem Eigentum sind verboten, außer alle Beteiligten oder der Support stimmen zu.
+1. Übermäßiger Deko-Spam, störende Konstruktionen, Performance-Probleme oder absichtlich unübersichtliche/buggy Platzierungen sind verboten. Der Support kann jederzeit eine Anpassung oder Entfernung verlangen.
+1. Verstöße können je nach Schwere zur Entfernung der Objekte, zum Entzug der Tool-Berechtigung, zu einer Verwarnung oder bei schwerem Missbrauch zu weiteren administrativen Maßnahmen führen.
