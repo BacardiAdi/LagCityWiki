@@ -2,7 +2,7 @@
 title: 5. Regeln
 description: 
 published: true
-date: 2026-05-31T13:25:50.369Z
+date: 2026-05-31T13:26:19.193Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-24T10:17:13.330Z
@@ -10,7 +10,7 @@ dateCreated: 2023-09-24T10:17:13.330Z
 
 # **Regelwerk für den Rust-Server**
 
-Stand 06.04.2026
+Stand 31.05.2026
 
 ## 1. Allgemeines
 
@@ -197,7 +197,6 @@ Das Reward-System ist ein freiwilliges Zusatzangebot. Es besteht kein Anspruch d
 1. Wer 6 Monate nicht auf dem Server aktiv war, dessen Reward-Punkte werden gelöscht.
 1. Ein Anspruch auf Nachbuchung, Erstattung oder Übertragung von Punkten besteht nicht.
 
-Akutelle Version alle da mit einverstanden ?
 
 ## 18. PlaceryGrab / Placement-Tool
 
