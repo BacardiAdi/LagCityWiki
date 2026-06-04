@@ -2,14 +2,14 @@
 title: Sonstiges
 description: 
 published: true
-date: 2026-03-01T21:37:16.577Z
+date: 2026-06-04T18:17:36.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:17:51.855Z
 ---
 
 # Items - Kategorie: Sonstiges
-*Generiert am 01.03.2026 22:37:15*
+*Generiert am 04.06.2026 20:17:33*
 
 ## Sonstiges
 
@@ -231,16 +231,16 @@ dateCreated: 2025-12-21T12:17:51.855Z
 **Herstellung:**
 
 - Berechtigung: `oil2`
-- Werkbank-Level: 1
-- Herstellungsmenge: 1
-- Max. Herstellungsmenge: 10
-- Herstellungsdauer: 20s
+- Werkbank-Level: 2
+- Herstellungsmenge: 20
+- Max. Herstellungsmenge: 20
+- Herstellungsdauer: 4s
 
 **Rezept:**
 
-- <img src="https://cdn.carbonmod.gg/items/crude.oil.png" alt="Rohöl" width="24" height="24" style="vertical-align: middle;" /> 4 x Rohöl
-- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 5 x Metallfragmente
-- <img src="https://cdn.carbonmod.gg/items/sulfur.png" alt="Schwefel" width="24" height="24" style="vertical-align: middle;" /> 1 x Schwefel
+- <img src="https://cdn.carbonmod.gg/items/crude.oil.png" alt="Rohöl" width="24" height="24" style="vertical-align: middle;" /> 70 x Rohöl
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 45 x Metallfragmente
+- <img src="https://cdn.carbonmod.gg/items/sulfur.png" alt="Schwefel" width="24" height="24" style="vertical-align: middle;" /> 10 x Schwefel
 
 ### Doppelter Pferdesattel
 
@@ -847,7 +847,7 @@ dateCreated: 2025-12-21T12:17:51.855Z
 - Werkbank-Level: 2
 - Herstellungsmenge: 1
 - Max. Herstellungsmenge: 5
-- Herstellungsdauer: 10s
+- Herstellungsdauer: 60s
 
 **Rezept:**
 
@@ -1453,18 +1453,18 @@ dateCreated: 2025-12-21T12:17:51.855Z
 
 ### Mohn Clone
 
-<img src="https://images.steamusercontent.com/ugc/1707413268979404583/2B7BDAE1C9C08B8E82FE178AB4E66BD3341739B0/" alt="Mohn Clone" width="64" height="64" />
+<img src="https://images.steamusercontent.com/ugc/10178306675592355556/DC13A89F3847C83EF279D90BADA8718D7EB30EDD/" alt="Mohn Clone" width="64" height="64" />
 
-**Shortname:** `clone.rose`
-**Skin-ID:** `2566527155`
+**Shortname:** `seed.rose`
+**Skin-ID:** `3730889544`
 **Status:** Sammelbar
 
 **Sammel-Information:**
 
 - Prefab: `rose-collectable`
-- Chance: 0.5%
-- Berechtigung: `RP_ItemHandling.drugdealer`
-- Chance mit Berechtigung: 2%
+- Chance: 5%
+- Berechtigung: `RP_ItemHandling.drugdealero`
+- Chance mit Berechtigung: 20%
 - Menge: 1 - 1
 - Ersatz-Multiplikator: 0
 
