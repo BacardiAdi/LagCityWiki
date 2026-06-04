@@ -2,14 +2,14 @@
 title: Fahrzeuge
 description: 
 published: true
-date: 2026-03-01T21:33:31.834Z
+date: 2026-06-04T18:17:12.180Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:16:08.875Z
 ---
 
 # Items - Kategorie: Fahrzeuge
-*Generiert am 01.03.2026 22:33:30*
+*Generiert am 04.06.2026 20:17:08*
 
 ## Fahrzeuge
 
@@ -37,7 +37,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 80 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 3000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 8 x Blech
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
 
 ### 126p Brown
 
@@ -63,7 +63,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 80 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 3000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 8 x Blech
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
 
 ### 126p Green
 
@@ -89,7 +89,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 80 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 3000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 8 x Blech
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
 
 ### 126p Lime
 
@@ -115,7 +115,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 80 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 3000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 8 x Blech
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
 
 ### 126p Purple
 
@@ -141,7 +141,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 80 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 3000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 8 x Blech
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 150 x Lag City Dollar
 
 ### Attack Helicopter
 
@@ -192,7 +192,111 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 1000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 5 x Plane
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+
+### ATV Blue
+
+<img src="https://images.steamusercontent.com/ugc/16451974548084446070/CF91D281D123B18088B1801A5BABB61D4F1E23F0/" alt="ATV Blue" width="64" height="64" />
+
+> Ein vielseitiges Allrad-Quad in Blau für schnelle Fahrten im Gelände
+
+**Shortname:** `electric.flasherlight`
+**Skin-ID:** `3660191058`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `exclusivemotorbike`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 7 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 10 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 1000 x Metallfragmente
+- <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 5 x Plane
+- <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+
+### ATV Camo
+
+<img src="https://images.steamusercontent.com/ugc/11670954854491408451/95E5C7BBCBCC458D3EB50D5B1DCB01922626F747/" alt="ATV Camo" width="64" height="64" />
+
+> Ein vielseitiges Allrad-Quad mit Tarnmuster für anspruchsvolle Geländefahrten
+
+**Shortname:** `electric.flasherlight`
+**Skin-ID:** `3660191201`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `exclusivemotorbike`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 7 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 10 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 1000 x Metallfragmente
+- <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 5 x Plane
+- <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+
+### ATV Red
+
+<img src="https://images.steamusercontent.com/ugc/17368116646851947114/9A844620332413B08F4C08A9A970988189B51EC5/" alt="ATV Red" width="64" height="64" />
+
+> Ein vielseitiges Allrad-Quad in Rot für schnelle Fahrten im Gelände
+
+**Shortname:** `electric.flasherlight`
+**Skin-ID:** `3660191301`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `exclusivemotorbike`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 7 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 10 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 1000 x Metallfragmente
+- <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 5 x Plane
+- <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+
+### ATV Yellow
+
+<img src="https://images.steamusercontent.com/ugc/17819612280347446535/04528847D1EBE9D8E59610C4FDBEC49CB84B0FA4/" alt="ATV Yellow" width="64" height="64" />
+
+> Ein vielseitiges Allrad-Quad in Gelb für schnelle Fahrten im Gelände
+
+**Shortname:** `electric.flasherlight`
+**Skin-ID:** `3660191380`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `exclusivemotorbike`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 60s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 7 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 10 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 1000 x Metallfragmente
+- <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 5 x Plane
+- <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### Badcoppi Sport Black
 
@@ -219,7 +323,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 12000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 30 x Blech
 - <img src="https://cdn.carbonmod.gg/items/techparts.png" alt="techparts" width="24" height="24" style="vertical-align: middle;" /> 5 x techparts
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
 
 ### Badcoppi Sport Blue
 
@@ -246,7 +350,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 12000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 30 x Blech
 - <img src="https://cdn.carbonmod.gg/items/techparts.png" alt="techparts" width="24" height="24" style="vertical-align: middle;" /> 5 x techparts
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
 
 ### Badcoppi Sport Green
 
@@ -273,7 +377,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 12000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 30 x Blech
 - <img src="https://cdn.carbonmod.gg/items/techparts.png" alt="techparts" width="24" height="24" style="vertical-align: middle;" /> 5 x techparts
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
 
 ### Badcoppi Sport Pink
 
@@ -300,7 +404,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 12000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 30 x Blech
 - <img src="https://cdn.carbonmod.gg/items/techparts.png" alt="techparts" width="24" height="24" style="vertical-align: middle;" /> 5 x techparts
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
 
 ### Badcoppi Sport Red
 
@@ -327,7 +431,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 12000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 30 x Blech
 - <img src="https://cdn.carbonmod.gg/items/techparts.png" alt="techparts" width="24" height="24" style="vertical-align: middle;" /> 5 x techparts
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
 
 ### Badcoppi Sport White
 
@@ -354,7 +458,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 12000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 30 x Blech
 - <img src="https://cdn.carbonmod.gg/items/techparts.png" alt="techparts" width="24" height="24" style="vertical-align: middle;" /> 5 x techparts
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
 
 ### Badcoppi Sport Yellow
 
@@ -381,7 +485,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 12000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 30 x Blech
 - <img src="https://cdn.carbonmod.gg/items/techparts.png" alt="techparts" width="24" height="24" style="vertical-align: middle;" /> 5 x techparts
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1000 x Lag City Dollar
 
 ### BatBike-flammen
 
@@ -405,7 +509,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 7000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### BatBike-hover
 
@@ -429,7 +533,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 7500 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Beiwagen-Motorrad
 
@@ -507,7 +611,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 8000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 4 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/fridge.png" alt="Kühlschrank" width="24" height="24" style="vertical-align: middle;" /> 1 x Kühlschrank
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Dune Truck Unarmed
 
@@ -534,7 +638,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 10000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 4 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.teslacoil.png" alt="Tesla-Spule" width="24" height="24" style="vertical-align: middle;" /> 1 x Tesla-Spule
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Duo Submarine
 
@@ -608,7 +712,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 40 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 12000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleiner Generator
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### Fighter Bus
 
@@ -634,7 +738,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 60 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 15000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleiner Generator
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### Gabelstapler
 
@@ -684,7 +788,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 7000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Hot Air Balloon
 
@@ -731,7 +835,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 3 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 10 x Plane
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 6000 x Metallfragmente
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### Hovercraft-armed
 
@@ -754,7 +858,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 3 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 10 x Plane
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 7000 x Metallfragmente
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### Jet Ski
 
@@ -805,7 +909,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 20 x Blech
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 14000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 4 x Kleiner Generator
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 250 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 250 x Lag City Dollar
 
 ### Minicopter
 
@@ -856,7 +960,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 1000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 5 x Plane
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 250 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 250 x Lag City Dollar
 
 ### Motorrad
 
@@ -883,30 +987,6 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
 - <img src="https://cdn.carbonmod.gg/items/electric.simplelight.png" alt="electric.simplelight" width="24" height="24" style="vertical-align: middle;" /> 1 x electric.simplelight
-
-### Puma
-
-<img src="https://cdn.carbonmod.gg/items/electric.flasherlight.png" alt="Puma" width="64" height="64" />
-
-> Ein einfaches, umweltfreundliches Fortbewegungsmittel für kurze Strecken
-
-**Shortname:** `electric.flasherlight`
-**Skin-ID:** `32810393491`
-**Status:** Herstellbar
-
-**Herstellung:**
-
-- Berechtigung: `bike`
-- Werkbank-Level: 1
-- Herstellungsmenge: 1
-- Herstellungsdauer: 60s
-
-**Rezept:**
-
-- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 2 x Zahnräder
-- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 5 x Metallrohr
-- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 500 x Metallfragmente
-- <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 5 x Plane
 
 ### Rasenmäher Grün
 
@@ -1029,7 +1109,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 10000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 4 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/leather.png" alt="Leder" width="24" height="24" style="vertical-align: middle;" /> 2500 x Leder
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1250 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 1250 x Lag City Dollar
 
 ### Row Boat
 
@@ -1077,7 +1157,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 1000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/tarp.png" alt="Plane" width="24" height="24" style="vertical-align: middle;" /> 5 x Plane
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### ScrapBuggy
 
@@ -1104,7 +1184,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 3000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 15 x Metallrohr
 - <img src="https://cdn.carbonmod.gg/items/roadsigns.png" alt="Verkehrsschilder" width="24" height="24" style="vertical-align: middle;" /> 4 x Verkehrsschilder
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### ScrapCar
 
@@ -1132,7 +1212,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 20 x Metallrohr
 - <img src="https://cdn.carbonmod.gg/items/roadsigns.png" alt="Verkehrsschilder" width="24" height="24" style="vertical-align: middle;" /> 8 x Verkehrsschilder
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 10 x Blech
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### ScrapTruck
 
@@ -1160,7 +1240,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 25 x Metallrohr
 - <img src="https://cdn.carbonmod.gg/items/roadsigns.png" alt="Verkehrsschilder" width="24" height="24" style="vertical-align: middle;" /> 10 x Verkehrsschilder
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 15 x Blech
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### Snowmobile
 
@@ -1234,7 +1314,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 7000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Sportbike-grün
 
@@ -1260,7 +1340,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 7000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Sportbike-orange
 
@@ -1286,7 +1366,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 7000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Sportbike-rot
 
@@ -1312,7 +1392,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 7000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Sportbike-schwarz
 
@@ -1338,7 +1418,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 7000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 2 x Kleiner Generator
 - <img src="https://cdn.carbonmod.gg/items/electric.battery.rechargable.small.png" alt="Kleine wiederaufladbare Batterie" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleine wiederaufladbare Batterie
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### TowTruck
 
@@ -1365,7 +1445,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 10000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 20 x Metallrohr
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 15 x Blech
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Traktor
 
@@ -1469,7 +1549,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 2000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 10 x Metallrohr
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 5 x Blech
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 200 x Lag City Dollar
 
 ### Warbird
 
@@ -1495,7 +1575,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 20 x Blech
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 14000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 4 x Kleiner Generator
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 250 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 250 x Lag City Dollar
 
 ### Warthog
 
@@ -1521,7 +1601,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 3000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 100 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleiner Generator
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Warthogs
 
@@ -1547,7 +1627,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 3000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 100 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleiner Generator
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Warthogt
 
@@ -1573,7 +1653,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 3000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/metal.refined.png" alt="Hochwertiges Metall" width="24" height="24" style="vertical-align: middle;" /> 100 x Hochwertiges Metall
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 1 x Kleiner Generator
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 300 x Lag City Dollar
 
 ### Waterheli
 
@@ -1599,7 +1679,7 @@ dateCreated: 2025-12-21T12:16:08.875Z
 - <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 25 x Blech
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 12000 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/electric.fuelgenerator.small.png" alt="Kleiner Generator" width="24" height="24" style="vertical-align: middle;" /> 3 x Kleiner Generator
-- <img src="https://cdn.carbonmod.gg/items/documents.png" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 250 x Lag City Dollar
+- <img src="https://images.steamusercontent.com/ugc/2101550498879735547/89C93714E236C0D0F9934579A9E2747348376C74/" alt="Lag City Dollar" width="24" height="24" style="vertical-align: middle;" /> 250 x Lag City Dollar
 
 ### Dune Truck Armed
 
