@@ -2,14 +2,14 @@
 title: Kleidung
 description: 
 published: true
-date: 2026-03-01T21:36:54.624Z
+date: 2026-06-04T18:17:23.895Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:17:15.616Z
 ---
 
 # Items - Kategorie: Kleidung
-*Generiert am 01.03.2026 22:36:53*
+*Generiert am 04.06.2026 20:17:20*
 
 ## Kleidung
 
