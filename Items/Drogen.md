@@ -2,14 +2,14 @@
 title: Drogen
 description: 
 published: true
-date: 2026-03-01T21:22:01.851Z
+date: 2026-06-04T18:16:56.025Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T11:49:56.134Z
 ---
 
 # Items - Kategorie: Drogen
-*Generiert am 01.03.2026 22:22:00*
+*Generiert am 04.06.2026 20:16:52*
 
 ## Drogen
 
@@ -36,8 +36,8 @@ dateCreated: 2025-12-21T11:49:56.134Z
 - <img src="https://images.steamusercontent.com/ugc/956349495967513628/60D8A981CF1DF11CE16CC587A21EF0AFB11F54D2/" alt="Unbekanntes Mineral" width="24" height="24" style="vertical-align: middle;" /> 2 x Unbekanntes Mineral
 - <img src="https://images.steamusercontent.com/ugc/1852664636035813336/E25D34D1371034FDFA563AB66EA05CBF78DC7F3C/" alt="Schwefelsäure" width="24" height="24" style="vertical-align: middle;" /> 3 x Schwefelsäure
 - <img src="https://cdn.carbonmod.gg/items/antiradpills.png" alt="Strahlenschutz-Tabletten" width="24" height="24" style="vertical-align: middle;" /> 5 x Strahlenschutz-Tabletten
-- <img src="https://cdn.carbonmod.gg/items/glue.png" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 1 x Zucker
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1690523386518063604/ADC0FF069109774EAA21141CFCEFD2CBFDEA0850/" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 1 x Zucker
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -65,7 +65,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 **Herstellung:**
 
 - Berechtigung: `drugdealer3`
-- Werkbank-Level: 1
+- Werkbank-Level: 10
 - Herstellungsmenge: 1
 - Max. Herstellungsmenge: 5
 - Herstellungsdauer: 20s
@@ -102,7 +102,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 **Herstellung:**
 
 - Berechtigung: `drugdealer3`
-- Werkbank-Level: 1
+- Werkbank-Level: 10
 - Herstellungsmenge: 1
 - Max. Herstellungsmenge: 5
 - Herstellungsdauer: 20s
@@ -142,7 +142,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 **Herstellung:**
 
 - Berechtigung: `drugdealer3`
-- Werkbank-Level: 1
+- Werkbank-Level: 10
 - Herstellungsmenge: 1
 - Max. Herstellungsmenge: 5
 - Herstellungsdauer: 20s
@@ -182,7 +182,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 **Herstellung:**
 
 - Berechtigung: `drugdealer3`
-- Werkbank-Level: 1
+- Werkbank-Level: 10
 - Herstellungsmenge: 1
 - Max. Herstellungsmenge: 5
 - Herstellungsdauer: 20s
@@ -222,7 +222,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 **Herstellung:**
 
 - Berechtigung: `drugdealer3`
-- Werkbank-Level: 1
+- Werkbank-Level: 10
 - Herstellungsmenge: 1
 - Max. Herstellungsmenge: 5
 - Herstellungsdauer: 20s
@@ -261,7 +261,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 **Herstellung:**
 
-- Werkbank-Level: 10
+- Werkbank-Level: 0
 - Herstellungsmenge: 1
 - Max. Herstellungsmenge: 25
 - Herstellungsdauer: 5s
@@ -298,6 +298,176 @@ dateCreated: 2025-12-21T11:49:56.134Z
 - Erzeugt: plantfiber
 - Gerauchter Joint
 
+### Laudanum
+
+<img src="https://images.steamusercontent.com/ugc/12756468724933759797/32456AB669D3773E8CD6EAD92E05FEDAB8AA665D/" alt="Laudanum" width="64" height="64" />
+
+> Dunkle opiumhaltige Tinktur als Fluessigkeit. Stark beruhigend und riskant.
+
+**Shortname:** `water`
+**Skin-ID:** `3732116607`
+**Status:** Herstellbar, Flüssig
+
+**Herstellung:**
+
+- Berechtigung: `Giftmischer`
+- Werkbank-Level: 10
+- Herstellungsmenge: 100
+- Herstellungsdauer: 60s
+- Hinweis: Benötigt Wasser in der Anlage; Rezeptangaben gelten für 1 Liter Laudanum.
+
+**Rezept:**
+
+- <img src="https://images.steamusercontent.com/ugc/15602093773880578390/6FF667778A6DF0903F3703674382A50011FD71E3/" alt="Opium-Portion" width="24" height="24" style="vertical-align: middle;" /> 1 x Opium-Portion
+- <img src="https://images.steamusercontent.com/ugc/15693833024825112725/A38F9514B2034B6541F5E0BB00AB50028F70DCA8/" alt="Laudanum-Fläschchen" width="24" height="24" style="vertical-align: middle;" /> 1 x Laudanum-Fläschchen
+
+**Stoffwechsel-Effekte:**
+
+- Kalorien: -5
+- Wasser: 25
+- Heilung über Zeit: 40
+- Komfort: 1.5
+- Alkohol: 0.5
+- Strahlung: -5
+
+**Modifikatoren:**
+
+- Comfort: 0.8 (Dauer: 420s)
+
+**Drogen-Effekte:**
+
+- Du nimmst Laudanum zu dir. Wärme und Schwere breiten sich aus.
+- Lick-Effekt
+- Dauer: 45 Sekunden
+
+**Spieler-Effekte:**
+
+- SpeedBoost: -0.3 - -0.3 (Dauer: 700s)
+
+### Laudanum-Fläschchen
+
+<img src="https://images.steamusercontent.com/ugc/15693833024825112725/A38F9514B2034B6541F5E0BB00AB50028F70DCA8/" alt="Laudanum-Fläschchen" width="64" height="64" />
+
+> Kleines leeres Fläschchen zum Abfüllen von Laudanum.
+
+**Shortname:** `smallwaterbottle`
+**Skin-ID:** `3731617869`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `Giftmischer`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Max. Herstellungsmenge: 25
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 20 x Metallfragmente
+- <img src="https://cdn.carbonmod.gg/items/cloth.png" alt="Stoff" width="24" height="24" style="vertical-align: middle;" /> 2 x Stoff
+
+### Opium
+
+<img src="https://images.steamusercontent.com/ugc/9337855639234153191/D511BD76CE80D725CE5250CB75CD0A1B67CE7059/" alt="Opium" width="64" height="64" />
+
+> Aufbereitetes Opium in groesserer Menge. Es dient als Grundstoff fuer portionierte Opiate und weitere illegale Produkte.
+
+**Shortname:** `horsedung`
+**Skin-ID:** `3730890299`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `drugdealerO`
+- Werkbank-Level: 10
+- Herstellungsmenge: 1
+- Max. Herstellungsmenge: 10
+- Herstellungsdauer: 300s
+
+**Rezept:**
+
+- <img src="https://images.steamusercontent.com/ugc/16586089579528192184/305E6E3474697F933FDDAEF3B865AD1554D886BF/" alt="Mohn-Milchsaft" width="24" height="24" style="vertical-align: middle;" /> 250 x Mohn-Milchsaft
+- <img src="https://images.steamusercontent.com/ugc/1690523386518063604/ADC0FF069109774EAA21141CFCEFD2CBFDEA0850/" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 2 x Zucker
+- <img src="https://cdn.carbonmod.gg/items/cloth.png" alt="Stoff" width="24" height="24" style="vertical-align: middle;" /> 25 x Stoff
+
+### Opiumpfeife
+
+<img src="https://images.steamusercontent.com/ugc/12380920892583355805/0953B7CFBC05946223C4CC54DF374B03F62BF3AF/" alt="Opiumpfeife" width="64" height="64" />
+
+> Vorbereitete Pfeife mit einer kleinen Opium-Portion. Ein gefaehrliches, stark beruhigendes Rauschmittel.
+
+**Shortname:** `crankshaft1`
+**Skin-ID:** `3731618095`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Max. Herstellungsmenge: 10
+- Herstellungsdauer: 20s
+
+**Rezept:**
+
+- <img src="https://images.steamusercontent.com/ugc/15602093773880578390/6FF667778A6DF0903F3703674382A50011FD71E3/" alt="Opium-Portion" width="24" height="24" style="vertical-align: middle;" /> 1 x Opium-Portion
+- <img src="https://cdn.carbonmod.gg/items/metalpipe.png" alt="Metallrohr" width="24" height="24" style="vertical-align: middle;" /> 1 x Metallrohr
+- <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 100 x Holz
+
+**Stoffwechsel-Effekte:**
+
+- Kalorien: -5
+- Wasser: -10
+- Heilung: 5
+- Heilung über Zeit: 20
+- Max-Heilung: 0.2
+- Komfort: 1
+- Gift: 2
+
+**Modifikatoren:**
+
+- Comfort: 0.7 (Dauer: 300s)
+
+**Drogen-Effekte:**
+
+- Du verwendest die Opiumpfeife. Eine schwere Ruhe breitet sich aus.
+- Atem-Effekt
+- Rauch-Effekt
+- Verbrauch: 5 Stück
+- Dauer: 30 Sekunden
+
+**Abfallprodukt:**
+
+- Erzeugt: Ausgebrannte Opiumpfeife
+- Eine leere, ausgebrannte Opiumpfeife.
+
+### Opium-Portion
+
+<img src="https://images.steamusercontent.com/ugc/15602093773880578390/6FF667778A6DF0903F3703674382A50011FD71E3/" alt="Opium-Portion" width="64" height="64" />
+
+> Kleine abgepackte Portion Opium. Wird fuer Pfeifen oder Tinkturen weiterverarbeitet.
+
+**Shortname:** `antiradpills`
+**Skin-ID:** `3731618244`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Werkbank-Level: 0
+- Herstellungsmenge: 10
+- Max. Herstellungsmenge: 20
+- Herstellungsdauer: 5s
+
+**Rezept:**
+
+- <img src="https://images.steamusercontent.com/ugc/9337855639234153191/D511BD76CE80D725CE5250CB75CD0A1B67CE7059/" alt="Opium" width="24" height="24" style="vertical-align: middle;" /> 1 x Opium
+- <img src="https://cdn.carbonmod.gg/items/cloth.png" alt="Stoff" width="24" height="24" style="vertical-align: middle;" /> 1 x Stoff
+
+**Stoffwechsel-Effekte:**
+
+- Wasser: -5
+- Strahlung: -75
+
 ### Trockenpilz - Illegal
 
 <img src="https://images.steamusercontent.com/ugc/1852667385212824743/D29564672FA1676C6D14200A258A3E2EEA04F418/" alt="Trockenpilz - Illegal" width="64" height="64" />
@@ -311,10 +481,10 @@ dateCreated: 2025-12-21T11:49:56.134Z
 **Herstellung:**
 
 - Berechtigung: `drugdealer`
-- Werkbank-Level: 1
+- Werkbank-Level: 10
 - Herstellungsmenge: 1
-- Max. Herstellungsmenge: 25
-- Herstellungsdauer: 5s
+- Max. Herstellungsmenge: 80
+- Herstellungsdauer: 2s
 
 **Rezept:**
 
@@ -363,22 +533,21 @@ dateCreated: 2025-12-21T11:49:56.134Z
 
 ### Mohn-Milchsaft
 
-<img src="https://images.steamusercontent.com/ugc/1707413268979404583/2B7BDAE1C9C08B8E82FE178AB4E66BD3341739B0/" alt="Mohn-Milchsaft" width="64" height="64" />
+<img src="https://images.steamusercontent.com/ugc/16586089579528192184/305E6E3474697F933FDDAEF3B865AD1554D886BF/" alt="Mohn-Milchsaft" width="64" height="64" />
 
 > Milchiger Pflanzensaft aus Schlafmohn – Rohstoff für starke Schmerzmittel und illegale Opiate
 
-**Shortname:** `horsedung`
-**Skin-ID:** `2566527155`
-**Status:** Sammelbar
+**Shortname:** `water`
+**Skin-ID:** `3730890105`
+**Status:** Flüssig
 
-**Sammel-Information:**
+**Stoffwechsel-Effekte:**
 
-- Prefab: `rose`
-- Chance: 100%
-- Berechtigung: `RP_ItemHandling.drugdealer`
-- Chance mit Berechtigung: 100%
-- Menge: 1 - 1
-- Ersatz-Multiplikator: 0.1
+- Wasser: 30
+- Heilung über Zeit: 5
+- Komfort: -10
+- Gift: 7
+- Strahlung: -5
 
 ### Schwefelsäure
 
