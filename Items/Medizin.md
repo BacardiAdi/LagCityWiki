@@ -2,14 +2,14 @@
 title: Medizin
 description: 
 published: true
-date: 2026-03-01T21:37:04.351Z
+date: 2026-06-04T18:17:30.778Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:17:32.986Z
 ---
 
 # Items - Kategorie: Medizin
-*Generiert am 01.03.2026 22:37:03*
+*Generiert am 04.06.2026 20:17:27*
 
 ## Medizin
 
@@ -35,7 +35,7 @@ dateCreated: 2025-12-21T12:17:32.986Z
 
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 250 x Metallfragmente
 - <img src="https://cdn.carbonmod.gg/items/sulfur.png" alt="Schwefel" width="24" height="24" style="vertical-align: middle;" /> 100 x Schwefel
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 5 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 5 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -171,7 +171,7 @@ dateCreated: 2025-12-21T12:17:32.986Z
 - <img src="https://cdn.carbonmod.gg/items/healingtea.png" alt="healingtea" width="24" height="24" style="vertical-align: middle;" /> 1 x healingtea
 - <img src="https://cdn.carbonmod.gg/items/yellow.berry.png" alt="Gelbe Beere" width="24" height="24" style="vertical-align: middle;" /> 5 x Gelbe Beere
 - <img src="https://cdn.carbonmod.gg/items/sulfur.png" alt="Schwefel" width="24" height="24" style="vertical-align: middle;" /> 50 x Schwefel
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 
 **Stoffwechsel-Effekte:**
 
