@@ -2,14 +2,14 @@
 title: Essen
 description: 
 published: true
-date: 2026-03-01T21:33:03.796Z
+date: 2026-06-04T18:17:07.275Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:15:48.363Z
 ---
 
 # Items - Kategorie: Essen
-*Generiert am 01.03.2026 22:33:02*
+*Generiert am 04.06.2026 20:17:03*
 
 ## Essen
 
@@ -26,10 +26,10 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Herstellung:**
 
 - Berechtigung: `cook`
-- Werkbank-Level: 1
+- Werkbank-Level: 21
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 10
-- Herstellungsdauer: 2s
+- Herstellungsdauer: 45s
 
 **Rezept:**
 
@@ -68,7 +68,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 5 x Mehl
 - <img src="https://cdn.carbonmod.gg/items/fish.cooked.png" alt="Gegrillter Fisch" width="24" height="24" style="vertical-align: middle;" /> 20 x Gegrillter Fisch
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 2 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -100,7 +100,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 5 x Mehl
 - <img src="https://cdn.carbonmod.gg/items/bearmeat.cooked.png" alt="Gegrilltes Bärenfleisch" width="24" height="24" style="vertical-align: middle;" /> 10 x Gegrilltes Bärenfleisch
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 5 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 - <img src="https://cdn.carbonmod.gg/items/potato.png" alt="Kartoffel" width="24" height="24" style="vertical-align: middle;" /> 20 x Kartoffel
 
 **Stoffwechsel-Effekte:**
@@ -166,17 +166,17 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Herstellung:**
 
 - Berechtigung: `cook`
-- Werkbank-Level: 1
+- Werkbank-Level: 21
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 10
-- Herstellungsdauer: 2s
+- Herstellungsdauer: 10s
 
 **Rezept:**
 
 - <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 5 x Mehl
 - <img src="https://cdn.carbonmod.gg/items/chicken.cooked.png" alt="Gegrilltes Hähnchenfleisch" width="24" height="24" style="vertical-align: middle;" /> 10 x Gegrilltes Hähnchenfleisch
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 5 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -230,7 +230,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - <img src="https://cdn.carbonmod.gg/items/chicken.cooked.png" alt="Gegrilltes Hähnchenfleisch" width="24" height="24" style="vertical-align: middle;" /> 15 x Gegrilltes Hähnchenfleisch
 - <img src="https://cdn.carbonmod.gg/items/green.berry.png" alt="Grüne Beere" width="24" height="24" style="vertical-align: middle;" /> 10 x Grüne Beere
 - <img src="https://cdn.carbonmod.gg/items/red.berry.png" alt="Rote Beere" width="24" height="24" style="vertical-align: middle;" /> 5 x Rote Beere
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -316,6 +316,38 @@ dateCreated: 2025-12-21T12:15:48.363Z
 
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 10 x Metallfragmente
 
+### Dschungel Wrap
+
+<img src="https://images.steamusercontent.com/ugc/14692037442192006525/4B5C0D976C46ACB4513C42260E461D5D86AAC1B6/" alt="Dschungel Wrap" width="64" height="64" />
+
+> Ein exotischer Wrap gefüllt mit zartem Großkatzenfleisch, Kürbis, gelben Beeren und einem Hauch von Käse – ein wildes Geschmackserlebnis aus dem Dschungel
+
+**Shortname:** `bigcatmeat.cooked`
+**Skin-ID:** `3706397493`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `cook`
+- Werkbank-Level: 1
+- Herstellungsmenge: 10
+- Herstellungsdauer: 2s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/bigcatmeat.cooked.png" alt="bigcatmeat.cooked" width="24" height="24" style="vertical-align: middle;" /> 15 x bigcatmeat.cooked
+- <img src="https://cdn.carbonmod.gg/items/pumpkin.png" alt="Kürbis" width="24" height="24" style="vertical-align: middle;" /> 10 x Kürbis
+- <img src="https://cdn.carbonmod.gg/items/yellow.berry.png" alt="Gelbe Beere" width="24" height="24" style="vertical-align: middle;" /> 10 x Gelbe Beere
+- <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 5 x Mehl
+- <img src="https://images.steamusercontent.com/ugc/15124813997662295737/5EDAA725010CB4B6849ABF2B4C12DED1039C54E2/" alt="Käse" width="24" height="24" style="vertical-align: middle;" /> 1 x Käse
+
+**Stoffwechsel-Effekte:**
+
+- Kalorien: 320
+- Wasser: 11
+- Heilung: 12
+- Heilung über Zeit: 7
+
 ### Espresso Tasse
 
 <img src="https://images.steamusercontent.com/ugc/2474257527217823734/52F63E1DFF2148FCB5AA259866E413C9EF5C433A/" alt="Espresso Tasse" width="64" height="64" />
@@ -359,7 +391,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 1 x Mehl
 - <img src="https://cdn.carbonmod.gg/items/meat.pork.cooked.png" alt="Gegrilltes Schweinefleisch" width="24" height="24" style="vertical-align: middle;" /> 10 x Gegrilltes Schweinefleisch
 - <img src="https://cdn.carbonmod.gg/items/potato.png" alt="Kartoffel" width="24" height="24" style="vertical-align: middle;" /> 20 x Kartoffel
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 - <img src="https://cdn.carbonmod.gg/items/egg.png" alt="Ei" width="24" height="24" style="vertical-align: middle;" /> 10 x Ei
 
 **Stoffwechsel-Effekte:**
@@ -396,7 +428,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 5 x Mehl
 - <img src="https://cdn.carbonmod.gg/items/fish.cooked.png" alt="Gegrillter Fisch" width="24" height="24" style="vertical-align: middle;" /> 10 x Gegrillter Fisch
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 2 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
 - <img src="https://cdn.carbonmod.gg/items/potato.png" alt="Kartoffel" width="24" height="24" style="vertical-align: middle;" /> 5 x Kartoffel
 - <img src="https://cdn.carbonmod.gg/items/pumpkin.png" alt="Kürbis" width="24" height="24" style="vertical-align: middle;" /> 15 x Kürbis
 
@@ -463,7 +495,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Herstellung:**
 
 - Berechtigung: `cook`
-- Werkbank-Level: 1
+- Werkbank-Level: 21
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 10
 - Herstellungsdauer: 10s
@@ -496,16 +528,16 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Herstellung:**
 
 - Berechtigung: `cook`
-- Werkbank-Level: 1
+- Werkbank-Level: 21
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 10
-- Herstellungsdauer: 10s
+- Herstellungsdauer: 30s
 
 **Rezept:**
 
 - <img src="https://cdn.carbonmod.gg/items/chicken.cooked.png" alt="Gegrilltes Hähnchenfleisch" width="24" height="24" style="vertical-align: middle;" /> 10 x Gegrilltes Hähnchenfleisch
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 5 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 3 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 3 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -527,10 +559,10 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Herstellung:**
 
 - Berechtigung: `cook`
-- Werkbank-Level: 1
+- Werkbank-Level: 21
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 10
-- Herstellungsdauer: 2s
+- Herstellungsdauer: 30s
 
 **Rezept:**
 
@@ -581,17 +613,17 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Herstellung:**
 
 - Berechtigung: `cook`
-- Werkbank-Level: 1
+- Werkbank-Level: 21
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 10
-- Herstellungsdauer: 2s
+- Herstellungsdauer: 20s
 
 **Rezept:**
 
 - <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 5 x Mehl
 - <img src="https://cdn.carbonmod.gg/items/wolfmeat.cooked.png" alt="Gegrilltes Wolfsfleisch" width="24" height="24" style="vertical-align: middle;" /> 10 x Gegrilltes Wolfsfleisch
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 5 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -641,8 +673,8 @@ dateCreated: 2025-12-21T12:15:48.363Z
 
 **Rezept:**
 
-- <img src="https://cdn.carbonmod.gg/items/water.png" alt="Milch" width="24" height="24" style="vertical-align: middle;" /> 500 x Milch
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1695028887562620012/79731FA8FD03453B0B5C94930D3BBA366FF715FA/" alt="Milch" width="24" height="24" style="vertical-align: middle;" /> 500 x Milch
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -800,10 +832,10 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Herstellung:**
 
 - Berechtigung: `cook`
-- Werkbank-Level: 1
+- Werkbank-Level: 21
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 10
-- Herstellungsdauer: 2s
+- Herstellungsdauer: 150s
 
 **Rezept:**
 
@@ -832,10 +864,10 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Herstellung:**
 
 - Berechtigung: `cook`
-- Werkbank-Level: 1
+- Werkbank-Level: 21
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 10
-- Herstellungsdauer: 2s
+- Herstellungsdauer: 30s
 
 **Rezept:**
 
@@ -864,16 +896,48 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Herstellung:**
 
 - Berechtigung: `cook`
-- Werkbank-Level: 1
+- Werkbank-Level: 21
 - Herstellungsmenge: 10
-- Herstellungsdauer: 1s
+- Herstellungsdauer: 30s
 
 **Rezept:**
 
 - <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 10 x Mehl
-- <img src="https://cdn.carbonmod.gg/items/yellow.berry.png" alt="Ananas" width="24" height="24" style="vertical-align: middle;" /> 5 x Ananas
+- <img src="https://images.steamusercontent.com/ugc/1808765072211928566/79E0734544D60A2E5422009DA857D9F2FB7BBD21/" alt="Ananas" width="24" height="24" style="vertical-align: middle;" /> 5 x Ananas
 - <img src="https://cdn.carbonmod.gg/items/meat.pork.cooked.png" alt="Gegrilltes Schweinefleisch" width="24" height="24" style="vertical-align: middle;" /> 5 x Gegrilltes Schweinefleisch
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 1 x Tierfett
+- <img src="https://images.steamusercontent.com/ugc/1690523386518063604/ADC0FF069109774EAA21141CFCEFD2CBFDEA0850/" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 1 x Zucker
+
+**Stoffwechsel-Effekte:**
+
+- Kalorien: 170
+- Wasser: 11
+- Heilung: 10
+- Heilung über Zeit: 5
+
+### Pizza Margherita
+
+<img src="https://images.steamusercontent.com/ugc/9535272014012049075/2CE6680DAE2F11E21673106B58335D78F1F29E6F/" alt="Pizza Margherita" width="64" height="64" />
+
+> Eine klassische Pizza Margherita mit frischem Mozzarella und Basilikum – ein italienisches Meisterwerk, vegetarisch zubereitet
+
+**Shortname:** `meat.pork.cooked`
+**Skin-ID:** `3699776095`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `cook`
+- Werkbank-Level: 21
+- Herstellungsmenge: 10
+- Max. Herstellungsmenge: 10
+- Herstellungsdauer: 30s
+
+**Rezept:**
+
+- <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 10 x Mehl
+- <img src="https://cdn.carbonmod.gg/items/red.berry.png" alt="Rote Beere" width="24" height="24" style="vertical-align: middle;" /> 10 x Rote Beere
+- <img src="https://images.steamusercontent.com/ugc/15124813997662295737/5EDAA725010CB4B6849ABF2B4C12DED1039C54E2/" alt="Käse" width="24" height="24" style="vertical-align: middle;" /> 5 x Käse
 - <img src="https://images.steamusercontent.com/ugc/1690523386518063604/ADC0FF069109774EAA21141CFCEFD2CBFDEA0850/" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 1 x Zucker
 
 **Stoffwechsel-Effekte:**
@@ -936,7 +1000,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 
 - <img src="https://cdn.carbonmod.gg/items/potato.png" alt="Kartoffel" width="24" height="24" style="vertical-align: middle;" /> 30 x Kartoffel
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 5 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -967,7 +1031,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 
 - <img src="https://cdn.carbonmod.gg/items/corn.png" alt="Mais" width="24" height="24" style="vertical-align: middle;" /> 20 x Mais
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 5 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -995,8 +1059,8 @@ dateCreated: 2025-12-21T12:15:48.363Z
 **Rezept:**
 
 - <img src="https://cdn.carbonmod.gg/items/chocolate.png" alt="Schokoladentafel" width="24" height="24" style="vertical-align: middle;" /> 5 x Schokoladentafel
-- <img src="https://cdn.carbonmod.gg/items/red.berry.png" alt="Erdbeere" width="24" height="24" style="vertical-align: middle;" /> 5 x Erdbeere
-- <img src="https://cdn.carbonmod.gg/items/yellow.berry.png" alt="Ananas" width="24" height="24" style="vertical-align: middle;" /> 5 x Ananas
+- <img src="https://images.steamusercontent.com/ugc/1813268038264056160/919C3F5DCD72491BA8531C8D9EF4E51DA266EC74/" alt="Erdbeere" width="24" height="24" style="vertical-align: middle;" /> 5 x Erdbeere
+- <img src="https://images.steamusercontent.com/ugc/1808765072211928566/79E0734544D60A2E5422009DA857D9F2FB7BBD21/" alt="Ananas" width="24" height="24" style="vertical-align: middle;" /> 5 x Ananas
 - <img src="https://images.steamusercontent.com/ugc/1690523386518063604/ADC0FF069109774EAA21141CFCEFD2CBFDEA0850/" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 5 x Zucker
 
 **Stoffwechsel-Effekte:**
@@ -1005,6 +1069,39 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - Wasser: 1
 - Heilung über Zeit: 2
 - Komfort: 0.5
+
+### Pulled Beast Burger
+
+<img src="https://images.steamusercontent.com/ugc/11364920101151571380/B127CFE73CC02A5C103199D5A63E6E6783AEED3A/" alt="Pulled Beast Burger" width="64" height="64" />
+
+> Ein exotischer Burger mit zartem Krokodilfleisch aus dem Dschungel, verfeinert mit würzigem Käse und herzhaftem Salz – ein Abenteuer für den Gaumen
+
+**Shortname:** `crocodilemeat.cooked`
+**Skin-ID:** `3706397069`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `cook`
+- Werkbank-Level: 1
+- Herstellungsmenge: 10
+- Herstellungsdauer: 2s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/crocodilemeat.cooked.png" alt="crocodilemeat.cooked" width="24" height="24" style="vertical-align: middle;" /> 10 x crocodilemeat.cooked
+- <img src="https://cdn.carbonmod.gg/items/wheat.png" alt="Weizen" width="24" height="24" style="vertical-align: middle;" /> 10 x Weizen
+- <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 2 x Tierfett
+- <img src="https://cdn.carbonmod.gg/items/corn.png" alt="Mais" width="24" height="24" style="vertical-align: middle;" /> 10 x Mais
+- <img src="https://images.steamusercontent.com/ugc/15124813997662295737/5EDAA725010CB4B6849ABF2B4C12DED1039C54E2/" alt="Käse" width="24" height="24" style="vertical-align: middle;" /> 2 x Käse
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+
+**Stoffwechsel-Effekte:**
+
+- Kalorien: 260
+- Wasser: 11
+- Heilung: 12
+- Heilung über Zeit: 5
 
 ### Ramen
 
@@ -1029,7 +1126,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - <img src="https://cdn.carbonmod.gg/items/green.berry.png" alt="Grüne Beere" width="24" height="24" style="vertical-align: middle;" /> 20 x Grüne Beere
 - <img src="https://cdn.carbonmod.gg/items/potato.png" alt="Kartoffel" width="24" height="24" style="vertical-align: middle;" /> 30 x Kartoffel
 - <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 10 x Mehl
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
 - <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallfragmente
 
 **Stoffwechsel-Effekte:**
@@ -1106,7 +1203,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - <img src="https://cdn.carbonmod.gg/items/egg.png" alt="Ei" width="24" height="24" style="vertical-align: middle;" /> 30 x Ei
 - <img src="https://cdn.carbonmod.gg/items/meat.pork.cooked.png" alt="Gegrilltes Schweinefleisch" width="24" height="24" style="vertical-align: middle;" /> 10 x Gegrilltes Schweinefleisch
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 20 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -1169,7 +1266,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 
 - <img src="https://cdn.carbonmod.gg/items/fish.raw.png" alt="Roher Fisch" width="24" height="24" style="vertical-align: middle;" /> 20 x Roher Fisch
 - <img src="https://cdn.carbonmod.gg/items/fat.animal.png" alt="Tierfett" width="24" height="24" style="vertical-align: middle;" /> 2 x Tierfett
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 2 x Salz
 - <img src="https://cdn.carbonmod.gg/items/pumpkin.png" alt="Kürbis" width="24" height="24" style="vertical-align: middle;" /> 5 x Kürbis
 
 **Stoffwechsel-Effekte:**
@@ -1292,7 +1389,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - Werkbank-Level: 21
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 10
-- Herstellungsdauer: 30s
+- Herstellungsdauer: 2s
 
 **Rezept:**
 
@@ -1343,6 +1440,38 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - Komfort: 0.8
 - Alkohol: 0.1
 
+### Wiener Schnitzel mit Pommes
+
+<img src="https://images.steamusercontent.com/ugc/16020392294152295073/DF2ECD10482CB7115977A496057595A4F1324A49/" alt="Wiener Schnitzel mit Pommes" width="64" height="64" />
+
+> Ein frisches saftiges Wiener Schnitzel, angerichtet mit knackiger Pommes und überträufelt mit Zitrone.
+
+**Shortname:** `meat.pork.cooked`
+**Skin-ID:** `3716019451`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `cook`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Max. Herstellungsmenge: 10
+- Herstellungsdauer: 30s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/meat.pork.cooked.png" alt="Gegrilltes Schweinefleisch" width="24" height="24" style="vertical-align: middle;" /> 2 x Gegrilltes Schweinefleisch
+- <img src="https://cdn.carbonmod.gg/items/potato.png" alt="Kartoffel" width="24" height="24" style="vertical-align: middle;" /> 3 x Kartoffel
+- <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 1 x Mehl
+
+**Stoffwechsel-Effekte:**
+
+- Kalorien: 280
+- Wasser: 6
+- Heilung: 20
+- Heilung über Zeit: 15
+- Komfort: 15
+
 ### Wild Gulasch
 
 <img src="https://images.steamusercontent.com/ugc/2431453671047084060/98F5DABE86510FB791E7EE494109E869C56E9A04/" alt="Wild Gulasch" width="64" height="64" />
@@ -1366,7 +1495,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - <img src="https://cdn.carbonmod.gg/items/deermeat.cooked.png" alt="Gegrilltes Hirschfleisch" width="24" height="24" style="vertical-align: middle;" /> 15 x Gegrilltes Hirschfleisch
 - <img src="https://cdn.carbonmod.gg/items/meat.pork.cooked.png" alt="Gegrilltes Schweinefleisch" width="24" height="24" style="vertical-align: middle;" /> 15 x Gegrilltes Schweinefleisch
 - <img src="https://cdn.carbonmod.gg/items/red.berry.png" alt="Rote Beere" width="24" height="24" style="vertical-align: middle;" /> 10 x Rote Beere
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 - <img src="https://cdn.carbonmod.gg/items/potato.png" alt="Kartoffel" width="24" height="24" style="vertical-align: middle;" /> 20 x Kartoffel
 
 **Stoffwechsel-Effekte:**
@@ -1399,7 +1528,7 @@ dateCreated: 2025-12-21T12:15:48.363Z
 - <img src="https://images.steamusercontent.com/ugc/1690523386518175311/371138BEAA2E75FFF11C7AB8754E30528990021C/" alt="Mehl" width="24" height="24" style="vertical-align: middle;" /> 5 x Mehl
 - <img src="https://cdn.carbonmod.gg/items/deermeat.cooked.png" alt="Gegrilltes Hirschfleisch" width="24" height="24" style="vertical-align: middle;" /> 20 x Gegrilltes Hirschfleisch
 - <img src="https://cdn.carbonmod.gg/items/green.berry.png" alt="Grüne Beere" width="24" height="24" style="vertical-align: middle;" /> 10 x Grüne Beere
-- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 - <img src="https://cdn.carbonmod.gg/items/pumpkin.png" alt="Kürbis" width="24" height="24" style="vertical-align: middle;" /> 20 x Kürbis
 
 **Stoffwechsel-Effekte:**
