@@ -2,14 +2,14 @@
 title: Elektronik
 description: 
 published: true
-date: 2026-03-01T21:32:52.672Z
+date: 2026-06-04T18:17:01.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:14:42.536Z
 ---
 
 # Items - Kategorie: Elektronik
-*Generiert am 01.03.2026 22:32:51*
+*Generiert am 04.06.2026 20:16:58*
 
 ## Elektronik
 
@@ -28,7 +28,7 @@ dateCreated: 2025-12-21T12:14:42.536Z
 - Werkbank-Level: 2
 - Herstellungsmenge: 1
 - Max. Herstellungsmenge: 2
-- Herstellungsdauer: 60s
+- Herstellungsdauer: 20s
 
 **Rezept:**
 
@@ -51,7 +51,7 @@ dateCreated: 2025-12-21T12:14:42.536Z
 - Werkbank-Level: 1
 - Herstellungsmenge: 1
 - Max. Herstellungsmenge: 2
-- Herstellungsdauer: 60s
+- Herstellungsdauer: 30s
 
 **Rezept:**
 
@@ -97,7 +97,7 @@ dateCreated: 2025-12-21T12:14:42.536Z
 - Berechtigung: `elektriker`
 - Werkbank-Level: 1
 - Herstellungsmenge: 1
-- Herstellungsdauer: 1s
+- Herstellungsdauer: 30s
 
 **Rezept:**
 
@@ -118,7 +118,7 @@ dateCreated: 2025-12-21T12:14:42.536Z
 - Werkbank-Level: 1
 - Herstellungsmenge: 10
 - Max. Herstellungsmenge: 5
-- Herstellungsdauer: 2s
+- Herstellungsdauer: 30s
 
 **Rezept:**
 
