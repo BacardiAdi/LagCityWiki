@@ -2,14 +2,14 @@
 title: Förster
 description: 
 published: true
-date: 2026-03-01T21:34:51.533Z
+date: 2026-06-04T18:17:16.899Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:16:52.071Z
 ---
 
 # Items - Kategorie: Förster
-*Generiert am 01.03.2026 22:34:50*
+*Generiert am 04.06.2026 20:17:13*
 
 ## Förster
 
