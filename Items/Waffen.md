@@ -2,14 +2,14 @@
 title: Waffen
 description: 
 published: true
-date: 2026-03-01T21:37:40.228Z
+date: 2026-06-04T18:17:48.648Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:19:36.345Z
 ---
 
 # Items - Kategorie: Waffen
-*Generiert am 01.03.2026 22:37:39*
+*Generiert am 04.06.2026 20:17:45*
 
 ## Waffen
 
@@ -48,7 +48,7 @@ dateCreated: 2025-12-21T12:19:36.345Z
 - Berechtigung: `waffenhaendler`
 - Werkbank-Level: 3
 - Herstellungsmenge: 1
-- Herstellungsdauer: 1s
+- Herstellungsdauer: 15s
 
 **Rezept:**
 
@@ -214,7 +214,7 @@ dateCreated: 2025-12-21T12:19:36.345Z
 - Berechtigung: `waffenhaendlerI7`
 - Werkbank-Level: 3
 - Herstellungsmenge: 1
-- Herstellungsdauer: 1s
+- Herstellungsdauer: 60s
 
 **Rezept:**
 
@@ -286,7 +286,7 @@ dateCreated: 2025-12-21T12:19:36.345Z
 - Berechtigung: `waffenhaendler5`
 - Werkbank-Level: 3
 - Herstellungsmenge: 1
-- Herstellungsdauer: 1s
+- Herstellungsdauer: 30s
 
 **Rezept:**
 
@@ -310,7 +310,7 @@ dateCreated: 2025-12-21T12:19:36.345Z
 - Berechtigung: `waffenhaendler`
 - Werkbank-Level: 3
 - Herstellungsmenge: 1
-- Herstellungsdauer: 1s
+- Herstellungsdauer: 30s
 
 **Rezept:**
 
