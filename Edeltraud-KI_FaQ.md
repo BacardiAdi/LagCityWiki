@@ -2,7 +2,7 @@
 title: Edeltraud-KI FaQ
 description: FAQ
 published: true
-date: 2026-04-28T14:35:10.296Z
+date: 2026-06-06T14:05:34.900Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T12:04:45.589Z
@@ -137,3 +137,16 @@ Kurzfassung: Kein Fehler an deiner Installation — die Funktion ist so geplant.
 
 ## Schlagwörter
 elektrischer Ofen | Elektroherd | Backofen | Herd | deaktiviert | nur Deko | dekorativ | kurz an dann aus | einschaltbar wenn leer | Berufe | Wirtschaft | Spielkonzept | Spielbalance
+
+---
+## Frage
+Nein der Nukleus für die Bienen, levelt der?
+
+## Antwort
+- Ja. Der Nukleus, den man aus Bienenwaben erhalten kann, "levelt" mit der Zeit, wenn er in einen aufgestellten Bienenstock eingesetzt wird.
+- Je höher das Level des Nukleus, desto schneller produziert das Bienenvolk Honig (die Aufstiegsmechanik erhöht die Produktionsrate).
+- Die Chance, einen Nukleus aus Bienenwaben zu bekommen, steigt mit dem Imker-Skill bzw. durch verbessertes Imkern.
+- Zweck: Das Leveln simuliert die Gesundheit und die Größe des Bienenvolks — also ein stärkeres, produktiveres Volk durch höheren Nukleus-Level.
+
+## Schlagwörter
+Nukleus | Ableger | Bienenwaben | Bienenstock | Honigproduktion | Imker-Skill | Imkern | Leveln | Aufleveln | Volkgröße | Gesundheit | Honigertrag
