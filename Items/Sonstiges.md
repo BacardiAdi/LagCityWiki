@@ -2,16 +2,37 @@
 title: Sonstiges
 description: 
 published: true
-date: 2026-06-04T18:17:36.745Z
+date: 2026-06-07T20:33:16.246Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T12:17:51.855Z
 ---
 
 # Items - Kategorie: Sonstiges
-*Generiert am 04.06.2026 20:17:33*
+*Generiert am 07.06.2026 22:33:15*
 
 ## Sonstiges
+
+### Beschleunigtes Werkbank-Upgrade
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.accelerated.png" alt="Beschleunigtes Werkbank-Upgrade" width="64" height="64" />
+
+> Beschleunigtes Werkbank-Upgrade für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.accelerated`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 5 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallschrott
 
 ### Blackjackmaschine
 
@@ -994,6 +1015,198 @@ dateCreated: 2025-12-21T12:17:51.855Z
 
 - <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 1000 x Holz
 
+### Werkbank-Upgrade: Effizienz
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.efficiency.png" alt="Werkbank-Upgrade: Effizienz" width="64" height="64" />
+
+> Werkbank-Upgrade: Effizienz für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.efficiency`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 200 x Metallschrott
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 3 x Zahnräder
+
+### Werkbank-Upgrade: Komfort
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.comfort.png" alt="Werkbank-Upgrade: Komfort" width="64" height="64" />
+
+> Werkbank-Upgrade: Komfort für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.comfort`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/wood.png" alt="Holz" width="24" height="24" style="vertical-align: middle;" /> 100 x Holz
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallschrott
+- <img src="https://cdn.carbonmod.gg/items/cloth.png" alt="Stoff" width="24" height="24" style="vertical-align: middle;" /> 30 x Stoff
+
+### Werkbank-Upgrade: Prototyp
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.prototype.png" alt="Werkbank-Upgrade: Prototyp" width="64" height="64" />
+
+> Werkbank-Upgrade: Prototyp für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.prototype`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 2
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/techparts.png" alt="techparts" width="24" height="24" style="vertical-align: middle;" /> 2 x techparts
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 300 x Metallschrott
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 2 x Zahnräder
+
+### Werkbank-Upgrade: Recycling
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.recyclebin.png" alt="Werkbank-Upgrade: Recycling" width="64" height="64" />
+
+> Werkbank-Upgrade: Recycling für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.recyclebin`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 200 x Metallschrott
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallfragmente
+
+### Werkbank-Upgrade: Reichweite
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.range.png" alt="Werkbank-Upgrade: Reichweite" width="64" height="64" />
+
+> Werkbank-Upgrade: Reichweite für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.range`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 50 x Metallfragmente
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallschrott
+
+### Werkbank-Upgrade: Überschussteile
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.surplus.png" alt="Werkbank-Upgrade: Überschussteile" width="64" height="64" />
+
+> Werkbank-Upgrade: Überschussteile für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.surplus`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 2
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 5 x Zahnräder
+- <img src="https://cdn.carbonmod.gg/items/metalspring.png" alt="Metallfeder" width="24" height="24" style="vertical-align: middle;" /> 3 x Metallfeder
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 300 x Metallschrott
+
+### Werkbank-Upgrade: Verstärkung
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.reinforced.png" alt="Werkbank-Upgrade: Verstärkung" width="64" height="64" />
+
+> Werkbank-Upgrade: Verstärkung für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.reinforced`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 1
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/sheetmetal.png" alt="Blech" width="24" height="24" style="vertical-align: middle;" /> 3 x Blech
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallschrott
+
+### Werkbank-Upgrade: Verteidigung
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.defensive.png" alt="Werkbank-Upgrade: Verteidigung" width="64" height="64" />
+
+> Werkbank-Upgrade: Verteidigung für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.defensive`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 2
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/metal.fragments.png" alt="Metallfragmente" width="24" height="24" style="vertical-align: middle;" /> 100 x Metallfragmente
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 200 x Metallschrott
+
+### Werkbank-Upgrade: Verwertung
+
+<img src="https://cdn.carbonmod.gg/items/workbench.upgrade.salvage.png" alt="Werkbank-Upgrade: Verwertung" width="64" height="64" />
+
+> Werkbank-Upgrade: Verwertung für erweiterte Werkbank-Funktionen.
+
+**Shortname:** `workbench.upgrade.salvage`
+**Status:** Herstellbar
+
+**Herstellung:**
+
+- Berechtigung: `RPCrafting.scrapdealer`
+- Werkbank-Level: 2
+- Herstellungsmenge: 1
+- Herstellungsdauer: 10s
+
+**Rezept:**
+
+- <img src="https://cdn.carbonmod.gg/items/scrap.png" alt="Metallschrott" width="24" height="24" style="vertical-align: middle;" /> 500 x Metallschrott
+- <img src="https://cdn.carbonmod.gg/items/gears.png" alt="Zahnräder" width="24" height="24" style="vertical-align: middle;" /> 5 x Zahnräder
+
 ### Werkzeugschrank RP Zone
 
 <img src="https://images.steamusercontent.com/ugc/4034403182921809/7E33F5AD7A03E45B6A609FF45C26BA8BEE3A9751/" alt="Werkzeugschrank RP Zone" width="64" height="64" />
@@ -1494,14 +1707,14 @@ dateCreated: 2025-12-21T12:17:51.855Z
 **Shortname:** `barricade.concrete`
 **Skin-ID:** `1134338977`
 
-### Polizei Zugangskarte
+### Polizeiliche Sofortbildkamera / Bodycam
 
-<img src="https://images.steamusercontent.com/ugc/1790722535853738321/F7D77A78A33A1050082CB0B08BC945E6B00F42EC/" alt="Polizei Zugangskarte" width="64" height="64" />
+<img src="https://images.steamusercontent.com/ugc/17936163097452606754/F097545884BFEDF928CEBAF6E7594A44D54EB006/" alt="Polizeiliche Sofortbildkamera / Bodycam" width="64" height="64" />
 
-> Hochsicherheits-Zugangskarte für Polizeigebäude – nur für autorisiertes Personal
+> Polizeiliche Sofortbildkamera zur Identitätsfeststellung. Funktioniert nur in der Polizeizone und erfasst Personen im direkten Nahbereich. Betroffene können ihre Identität mit /idok freiwillig bestätigen, sonst läuft die Feststellung automatisch weiter.
 
-**Shortname:** `keycard_red`
-**Skin-ID:** `2488932248`
+**Shortname:** `tool.instant_camera`
+**Skin-ID:** `3740273132`
 
 ### Salz Stein
 
