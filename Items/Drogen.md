@@ -2,14 +2,14 @@
 title: Drogen
 description: 
 published: true
-date: 2026-06-04T18:16:56.025Z
+date: 2026-06-07T20:32:36.369Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T11:49:56.134Z
 ---
 
 # Items - Kategorie: Drogen
-*Generiert am 04.06.2026 20:16:52*
+*Generiert am 07.06.2026 22:32:35*
 
 ## Drogen
 
@@ -36,8 +36,8 @@ dateCreated: 2025-12-21T11:49:56.134Z
 - <img src="https://images.steamusercontent.com/ugc/956349495967513628/60D8A981CF1DF11CE16CC587A21EF0AFB11F54D2/" alt="Unbekanntes Mineral" width="24" height="24" style="vertical-align: middle;" /> 2 x Unbekanntes Mineral
 - <img src="https://images.steamusercontent.com/ugc/1852664636035813336/E25D34D1371034FDFA563AB66EA05CBF78DC7F3C/" alt="Schwefelsäure" width="24" height="24" style="vertical-align: middle;" /> 3 x Schwefelsäure
 - <img src="https://cdn.carbonmod.gg/items/antiradpills.png" alt="Strahlenschutz-Tabletten" width="24" height="24" style="vertical-align: middle;" /> 5 x Strahlenschutz-Tabletten
-- <img src="https://images.steamusercontent.com/ugc/1690523386518063604/ADC0FF069109774EAA21141CFCEFD2CBFDEA0850/" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 1 x Zucker
-- <img src="https://images.steamusercontent.com/ugc/1814382862667653730/53CE5BE4C848232DDD014FFF562FEF0D688403CB/" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
+- <img src="https://cdn.carbonmod.gg/items/glue.png" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 1 x Zucker
+- <img src="https://cdn.carbonmod.gg/items/gunpowder.png" alt="Salz" width="24" height="24" style="vertical-align: middle;" /> 1 x Salz
 
 **Stoffwechsel-Effekte:**
 
@@ -388,7 +388,7 @@ dateCreated: 2025-12-21T11:49:56.134Z
 **Rezept:**
 
 - <img src="https://images.steamusercontent.com/ugc/16586089579528192184/305E6E3474697F933FDDAEF3B865AD1554D886BF/" alt="Mohn-Milchsaft" width="24" height="24" style="vertical-align: middle;" /> 250 x Mohn-Milchsaft
-- <img src="https://images.steamusercontent.com/ugc/1690523386518063604/ADC0FF069109774EAA21141CFCEFD2CBFDEA0850/" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 2 x Zucker
+- <img src="https://cdn.carbonmod.gg/items/glue.png" alt="Zucker" width="24" height="24" style="vertical-align: middle;" /> 2 x Zucker
 - <img src="https://cdn.carbonmod.gg/items/cloth.png" alt="Stoff" width="24" height="24" style="vertical-align: middle;" /> 25 x Stoff
 
 ### Opiumpfeife
